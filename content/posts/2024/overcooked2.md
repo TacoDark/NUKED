@@ -11,6 +11,32 @@ tags:
 draft: false
 ---
 ##
+<style>
+  body.dark-mode,
+  body.dark-mode main * {
+    background: url('/images/2024/overcooked21.jpeg') center center fixed no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+    color: #f5f5f5;
+  }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var body = document.body;
+        var switcher = document.querySelector('.js-toggle');
+                body.classList.add('dark-mode');
+                // Save user preference in storage
+                localStorage.setItem('darkMode', 'true');
+            
+        });
+</script>
+
+<audio controls autoplay>
+  <source src="/audio/overcooked2.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
+
+
 <figure style="float: left; margin-right: 20px;">
   <img src="/images/2024/overcooked2.jpeg" alt="Overcooked! 2" style="width: 200px;">
 </figure>
@@ -21,16 +47,28 @@ Companies: **Ghost Town Games, Team17 Digital**
 
 Language : **RUS/ENG/MULTI12**
 
-Size: **7.5 GiB**
-# ⠀
+Size: **7.9 GiB**
 # ⠀
 # ⠀
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:JB6LFKNA2TT3SC3IMZPL332EYLI4IZ6D&dn=Overcooked!%202" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:WXLADUNADCRGJU6BOICHR7DI7A4JJ4ZU&dn=Overcooked!%202" style="color: green;">Magnet</a>
+
+## Changes
+
+### Update 1
+
+Replaced fitgirl release that was gog version with Steam-Rip Release
+
+
+Privite Online, Works now!
+
+Defernt Crack: **Online-Fix.me**
 
 ## Torrent Features
-Based of **gog version,fitgirl release**
+Based of **Steam-Rip Release**
+
+Crack: **Online-Fix.me**
 
 NOTHING ripped, NOTHING re-encoded
 
@@ -48,3 +86,5 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 10 GB available space
 
 ## Linux
+
+`WINEDLLOVERRIDES="OnlineFix=n;SteamOverlay32=n;winmm=n,b;dnet=n;steam_api=n;StubDRM32=n" %command%`
