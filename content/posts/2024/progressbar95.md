@@ -47,8 +47,6 @@ Languages: **RUS/ENG/MULTi12**
 
 Size: **97.0 MB**
 
-# ⠀
-
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4r51zWoH574" title="Progressbar95 - Gameplay Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
