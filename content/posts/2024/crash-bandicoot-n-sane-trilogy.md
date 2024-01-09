@@ -48,7 +48,6 @@ Languages: **ENG/MULTi12**
 Size: **29.0 GB**
 
 # ⠀
-# ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4fbO2-egZ3U" title="The Comeback Trailer | Crash Bandicoot® N. Sane Trilogy | Crash Bandicoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
