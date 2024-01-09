@@ -51,6 +51,9 @@ Size: **7.9 GiB**
 # ⠀
 # ⠀
 
+## Trailer
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gEjbXb_eZcs" title="Overcooked 2: Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Mirrors
 <a href="magnet:?xt=urn:btih:WXLADUNADCRGJU6BOICHR7DI7A4JJ4ZU&dn=Overcooked!%202" style="color: green;">Magnet</a>
 
