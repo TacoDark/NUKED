@@ -58,6 +58,8 @@ Size: **9.58 GB**
 ## Torrent Features
 Based of **RAFT – V1.0 HOTFIX 1 (THE FINAL CHAPTER/BUILD 8973125) + MULTIPLAYER, Fitgirl release**
 
+Version: **v1.0**
+
 NOTHING ripped, NOTHING re-encoded
 
 ## System Requrements
