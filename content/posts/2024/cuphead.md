@@ -13,7 +13,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('https://miro.medium.com/v2/resize:fit:1024/1*gZOhozCuSyTTrqxKKMslCg.jpeg') center center fixed no-repeat;
+    background: url('/images/2024/cuphead2.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
