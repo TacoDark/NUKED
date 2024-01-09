@@ -1,5 +1,5 @@
 ---
-title: "Overcooked! 2"
+title: "Update 1, Overcooked! 2"
 
 date: 2024-01-08
 url: /overcooked2
