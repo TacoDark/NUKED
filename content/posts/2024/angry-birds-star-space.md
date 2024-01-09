@@ -3,7 +3,7 @@ title: "Angry Birds Star Space"
 
 date: 2024-01-07
 url: /angry-birds-star-space
-image: images/2024-Games/angry-birds-star-space.jpg
+image: images/2024/angry-birds-star-space.jpg
 categories:
   - Games
 tags:
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024-Games/angry-birds-star-space.jpg)
+![](/images/2024/angry-birds-star-space.jpg)
 
 Genres/Tags: **Old Games, 3D**
 

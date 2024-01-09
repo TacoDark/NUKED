@@ -2,7 +2,7 @@
 title: "Cuphead"
 date: 2024-01-07
 url: /cuphead
-image: images/2024-Games/cuphead.jpg
+image: images/2024/cuphead.jpg
 categories:
   - Games
 tags:
@@ -36,7 +36,7 @@ draft: false
 </audio>⠀⠀⠀
 ⠀
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/cuphead.jpg" alt="title: "Cuphead"" style="width: 200px;">
+  <img src="/images/2024/cuphead.jpg" alt="title: "Cuphead"" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Arcade, Run and gun, Side, 2D**

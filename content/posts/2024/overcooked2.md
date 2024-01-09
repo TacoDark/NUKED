@@ -3,7 +3,7 @@ title: "Overcooked! 2"
 
 date: 2024-01-08
 url: /overcooked2
-image: images/2024-Games/overcooked2.jpeg
+image: images/2024/overcooked2.jpeg
 categories:
   - Games
 tags:
@@ -12,7 +12,7 @@ draft: false
 ---
 ##
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/overcooked2.jpeg" alt="Overcooked! 2" style="width: 200px;">
+  <img src="/images/2024/overcooked2.jpeg" alt="Overcooked! 2" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Arcade, Top-down, 3D**

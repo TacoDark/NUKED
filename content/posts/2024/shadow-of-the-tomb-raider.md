@@ -3,7 +3,7 @@ title: "Shadow of the Tomb Raider"
 
 date: 2024-01-08
 url: /shadow-of-the-tomb-raider
-image: images/2024-Games/shadow-of-the-tomb-raider.jpeg
+image: images/2024/shadow-of-the-tomb-raider.jpeg
 categories:
   - Games
 tags:
@@ -15,7 +15,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024-Games/shadow-of-the-tomb-raider.jpg') center center fixed no-repeat;
+    background: url('/images/2024/shadow-of-the-tomb-raider.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -38,7 +38,7 @@ draft: false
 </audio>
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/shadow-of-the-tomb-raider.jpeg" alt="Shadow of the Tomb Raider" style="width: 200px;">
+  <img src="/images/2024/shadow-of-the-tomb-raider.jpeg" alt="Shadow of the Tomb Raider" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Action, Shooter, Third-person, 3D**

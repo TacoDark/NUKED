@@ -3,7 +3,7 @@ title: "Angry Birds Rio 2"
 
 date: 2024-01-07
 url: /angry-birds-rio-2
-image: images/2024-Games/angry-birds-rio-2.jpg
+image: images/2024/angry-birds-rio-2.jpg
 categories:
   - Games
 tags:
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024-Games/angry-birds-rio-2.jpg)
+![](/images/2024/angry-birds-rio-2.jpg)
 
 Genres/Tags: **Old Games, 3D**
 

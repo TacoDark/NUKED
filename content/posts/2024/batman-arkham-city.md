@@ -3,7 +3,7 @@ title: "Batman - Arkham City"
 
 date: 2024-01-08
 url: /batman-arkham-city
-image: images/2024-Games/batman-arkham-city.jpg
+image: images/2024/batman-arkham-city.jpg
 categories:
   - Games
 tags:
@@ -15,7 +15,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024-Games/batman-arkham-city.webp') center center fixed no-repeat;
+    background: url('/images/2024/batman-arkham-city.webp') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -39,7 +39,7 @@ draft: false
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/batman-arkham-city.jpg" alt="Batman - Arkham City" style="width: 200px;">
+  <img src="/images/2024/batman-arkham-city.jpg" alt="Batman - Arkham City" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Action, Stealth, Beat ’em up (Brawler), Third-person, 3D**

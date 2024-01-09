@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://boisterous-toffee-60cc83.netlify.app"
+baseURL = "https://effulgent-cajeta-9cd73c.netlify.app"
 title = "SteavenGamerYT | Hream"
 # theme
 theme = "northendlab"
@@ -176,33 +176,33 @@ name = "Home"
 [[Languages.en.menu.main]]
 weight = 6
 url = "#"
-name = "Sections"
+name = "Platforms"
 hasChildren = true
   
 [[Languages.en.menu.main]]
     name = "Games"
     url = "/categories/games"
-    parent = "Sections"
+    parent = "Platforms"
 
 [[Languages.en.menu.main]]
     name = "Android"
     url = "/categories/android"
-    parent = "Sections"
+    parent = "Platforms"
 
 [[Languages.en.menu.main]]
     name = "Linux"
     url = "/categories/linux"
-    parent = "Sections"
+    parent = "Platforms"
 
 [[Languages.en.menu.main]]
     name = "MacOS"
     url = "/categories/macos"
-    parent = "Sections"
+    parent = "Platforms"
 
 [[Languages.en.menu.main]]
     name = "Windows"
     url = "/categories/windows"
-    parent = "Sections"
+    parent = "Platforms"
 
 ############################# Footer Menu ########################
 

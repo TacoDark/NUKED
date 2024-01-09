@@ -3,7 +3,7 @@ title: "Angry Birds Star Wars"
 
 date: 2024-01-07
 url: /angry-birds-star-wars
-image: images/2024-Games/angry-birds-star-wars.jpeg
+image: images/2024/angry-birds-star-wars.jpeg
 categories:
   - Games
 tags:
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024-Games/angry-birds-star-wars.jpeg)
+![](/images/2024/angry-birds-star-wars.jpeg)
 
 Genres/Tags: **Old Games, 3D**
 

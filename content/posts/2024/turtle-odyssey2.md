@@ -3,7 +3,7 @@ title: "Turtle Odyssey 2"
 
 date: 2024-01-08
 url: /turtle-odyssey2
-image: images/2024-Games/turtle-odyssey2.webp
+image: images/2024/turtle-odyssey2.webp
 categories:
   - Games
 tags:
@@ -12,7 +12,7 @@ draft: false
 ---
 ##
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/turtle-odyssey2.webp" alt="Turtle Odyssey 2" style="width: 200px;">
+  <img src="/images/2024/turtle-odyssey2.webp" alt="Turtle Odyssey 2" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**

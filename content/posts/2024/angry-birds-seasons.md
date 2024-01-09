@@ -3,7 +3,7 @@ title: "Angry Birds Seasons"
 
 date: 2024-01-07
 url: /angngry-birds-seasons
-image: images/2024-Games/angry-birds-seasons.jpg
+image: images/2024/angry-birds-seasons.jpg
 categories:
   - Games
 tags:
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024-Games/angry-birds-seasons.jpg)
+![](/images/2024/angry-birds-seasons.jpg)
 
 Genres/Tags: **Old Games, 3D**
 

@@ -3,7 +3,7 @@ title: "Angry Birds Classic"
 
 date: 2024-01-07
 url: /angry-birds-classic
-image: images/2024-Games/angry-birds-classic.png
+image: images/2024/angry-birds-classic.png
 categories:
   - Games
 tags:
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024-Games/angry-birds-classic.png)
+![](/images/2024/angry-birds-classic.png)
 
 Genres/Tags: **Old Games, 3D**
 

@@ -3,7 +3,7 @@ title: "Turtle Odyssey"
 
 date: 2024-01-08
 url: /turtle-odyssey
-image: images/2024-Games/turtle-odyssey.jpg
+image: images/2024/turtle-odyssey.jpg
 categories:
   - Games
 tags:
@@ -12,7 +12,7 @@ draft: false
 ---
 ##
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/turtle-odyssey.jpg" alt="Turtle Odyssey" style="width: 200px;">
+  <img src="/images/2024/turtle-odyssey.jpg" alt="Turtle Odyssey" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**

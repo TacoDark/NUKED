@@ -3,7 +3,7 @@ title: "Ozzy Bubbles"
 
 date: 2024-01-08
 url: /ozzy-bubbles
-image: images/2024-Games/ozzy-bubbles.png
+image: images/2024/ozzy-bubbles.png
 categories:
   - Games
 tags:
@@ -12,7 +12,7 @@ draft: false
 ---
 ##
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/ozzy-bubbles.png" alt="Ozzy Bubbles" style="width: 200px;">
+  <img src="/images/2024/ozzy-bubbles.png" alt="Ozzy Bubbles" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**

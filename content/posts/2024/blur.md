@@ -3,7 +3,7 @@ title: "Blur"
 
 date: 2024-01-08
 url: /blur
-image: images/2024-Games/blur.webp
+image: images/2024/blur.webp
 categories:
   - Games
 tags:
@@ -14,7 +14,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024-Games/blur.jpg') center center fixed no-repeat;
+    background: url('/images/2024/blur.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -38,7 +38,7 @@ draft: false
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/blur.webp" alt="Blur" style="width: 200px;">
+  <img src="/images/2024/blur.webp" alt="Blur" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Arcade, Racing (Cars), 3D**
