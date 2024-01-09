@@ -1,7 +1,7 @@
 ---
-title: "Overcooked! All You Can Eat"
+title: "Update 1, Overcooked! All You Can Eat"
 
-date: 2024-01-08
+date: 2024-01-09
 url: /overcooked-all-you-can-eat
 image: images/2024/overcooked-all-you-can-eat.jpg
 categories:
@@ -55,12 +55,26 @@ Size: **8.5 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v9R7GMZw81E" title="Overcooked! All You Can Eat - Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:F6FL4GXW3IEODJLAXRCT5WCD2A5BM47G&dn=Overcooked!%20All%20You%20Can%20Eat" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:NGXOW3R2JNQD3NKU6GUXPQ2WNBRFRMEI&dn=Overcooked%20All%20You%20Can%20Eat" style="color: green;">Magnet</a>
+
+## Changes
+
+### Update 1
+
+Replaced fitgirl release with Steam-Rip Release
+
+Newer version **v27.01.2023**
+
+Privite Online, Works now!
+
+Defernt Crack: **Online-Fix.me**
 
 ## Torrent Features
-Based of **OVERCOOKED! ALL YOU CAN EAT + DLC, fitgirl release**
+Based of **Steam-Rip Release**
 
-Crack: **Codex**
+Version: **v27.01.2023**
+
+Crack: **Online-Fix.me**
 
 NOTHING ripped, NOTHING re-encoded
 
