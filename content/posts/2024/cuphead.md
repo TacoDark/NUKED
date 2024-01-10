@@ -48,7 +48,6 @@ Languages: **RUS/ENG/MULTi12**
 Size: **5.39 GiB**
 
 # ⠀
-# ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NN-9SQXoi50" title="Cuphead Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
