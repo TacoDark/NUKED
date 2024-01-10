@@ -40,7 +40,7 @@ Companies: **SCKR Games**
 
 Languages: **ENG**
 
-Size: **5.5 GiB**
+Size: **5.20 GiB**
 
 # ⠀
 # ⠀
