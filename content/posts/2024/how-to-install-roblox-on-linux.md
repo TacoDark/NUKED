@@ -5,6 +5,7 @@ date: 2023-04-01
 url: /how-to-install-roblox-on-linux
 image: images/roblox.png
 categories:
+  - Games
   - Linux
 tags:
   - Ubuntu

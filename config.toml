@@ -167,6 +167,33 @@ weight = 1
 url = "/"
 name = "Home"
 
+[[Languages.en.menu.main]]
+weight = 3
+url = "#"
+name = "Tags"
+
+hasChildren = true
+[[Languages.en.menu.main]]
+    weight = 1
+    name = "Angry Birds"
+    url = "/tags/angry-birds"
+    parent = "Tags"
+[[Languages.en.menu.main]]
+    weight = 2
+    name = "Overcooked"
+    url = "/tags/overcooked"
+    parent = "Tags"
+[[Languages.en.menu.main]]
+    weight = 3
+    name = "Turtle Odyssey"
+    url = "/tags/turtle-odyssey"
+    parent = "Tags"
+[[Languages.en.menu.main]]
+    weight = 4
+    name = "Feeding Frenzy"
+    url = "/tags/feeding-frenzy"
+    parent = "Tags"
+
 
 [[Languages.en.menu.main]]
     name = "Latest Videos"
@@ -180,30 +207,34 @@ name = "Platforms"
 hasChildren = true
   
 [[Languages.en.menu.main]]
+    weight = 1
     name = "Games"
     url = "/categories/games"
     parent = "Platforms"
 
 [[Languages.en.menu.main]]
-    name = "Android"
-    url = "/categories/android"
+    weight = 2
+    name = "Windows"
+    url = "/categories/windows"
     parent = "Platforms"
 
 [[Languages.en.menu.main]]
+    weight = 3
     name = "Linux"
     url = "/categories/linux"
     parent = "Platforms"
 
 [[Languages.en.menu.main]]
+    weight = 4
     name = "MacOS"
     url = "/categories/macos"
     parent = "Platforms"
 
 [[Languages.en.menu.main]]
-    name = "Windows"
-    url = "/categories/windows"
+    weight = 5
+    name = "Android"
+    url = "/categories/android"
     parent = "Platforms"
-
 ############################# Footer Menu ########################
 
 [[Languages.en.menu.footer]]

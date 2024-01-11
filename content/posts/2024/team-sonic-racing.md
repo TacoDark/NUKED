@@ -5,6 +5,8 @@ url: /team-sonic-racing
 image: images/2024/team-sonic-racing.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

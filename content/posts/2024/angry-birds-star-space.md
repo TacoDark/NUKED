@@ -6,8 +6,11 @@ url: /angry-birds-star-space
 image: images/2024/angry-birds-star-space.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Angry Birds
 draft: false
 ---
 ##

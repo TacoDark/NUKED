@@ -6,8 +6,11 @@ url: /ozzy-bubbles
 image: images/2024/ozzy-bubbles.png
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Turtle Odyssey
 draft: false
 ---
 ##

@@ -6,8 +6,11 @@ url: /turtle-odyssey
 image: images/2024/turtle-odyssey.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Turtle Odyssey
 draft: false
 ---
 ##

@@ -5,6 +5,8 @@ url: /progressbar95
 image: images/2024/progressbar95.webp
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

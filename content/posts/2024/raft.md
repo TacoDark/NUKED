@@ -5,6 +5,8 @@ url: /raft
 image: images/2024/raft.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

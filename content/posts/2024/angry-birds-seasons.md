@@ -6,8 +6,11 @@ url: /angngry-birds-seasons
 image: images/2024/angry-birds-seasons.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Angry Birds
 draft: false
 ---
 ##

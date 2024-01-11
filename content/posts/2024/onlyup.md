@@ -5,6 +5,8 @@ url: /onlyup
 image: images/2024/onlyup.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

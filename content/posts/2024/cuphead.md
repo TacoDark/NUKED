@@ -5,6 +5,8 @@ url: /cuphead
 image: images/2024/cuphead.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

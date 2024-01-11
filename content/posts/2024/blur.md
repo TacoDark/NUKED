@@ -6,6 +6,8 @@ url: /blur
 image: images/2024/blur.webp
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

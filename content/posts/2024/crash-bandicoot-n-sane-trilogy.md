@@ -5,6 +5,8 @@ url: /crash-bandicoot-n-sane-trilogy
 image: images/2024/crash-bandicoot-n-sane-trilogy2.webp
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

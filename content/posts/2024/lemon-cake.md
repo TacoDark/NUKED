@@ -5,6 +5,8 @@ url: /lemon-cake
 image: images/2024/lemon-cake.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

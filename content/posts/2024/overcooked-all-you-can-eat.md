@@ -6,8 +6,11 @@ url: /overcooked-all-you-can-eat
 image: images/2024/overcooked-all-you-can-eat.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Overcooked
 draft: false
 ---
 ##

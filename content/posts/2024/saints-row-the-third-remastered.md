@@ -6,6 +6,8 @@ url: /saints-row-the-third-remastered
 image: images/2024/saints-row-the-third-remastered.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

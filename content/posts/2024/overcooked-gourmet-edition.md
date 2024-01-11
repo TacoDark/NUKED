@@ -6,8 +6,11 @@ url: /overcooked-gourmet-edition
 image: images/2024/overcooked-gourmet-edition.webp
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Overcooked
 draft: false
 ---
 ##

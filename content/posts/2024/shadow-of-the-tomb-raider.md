@@ -6,6 +6,8 @@ url: /shadow-of-the-tomb-raider
 image: images/2024/shadow-of-the-tomb-raider.jpeg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

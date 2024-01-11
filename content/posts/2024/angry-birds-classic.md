@@ -6,8 +6,11 @@ url: /angry-birds-classic
 image: images/2024/angry-birds-classic.png
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Angry Birds
 draft: false
 ---
 ##

@@ -6,8 +6,11 @@ url: /angry-birds-rio-2
 image: images/2024/angry-birds-rio-2.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Angry Birds
 draft: false
 ---
 ##

@@ -5,6 +5,8 @@ url: /burn-zombie-burn
 image: images/2024/burn-zombie-burn.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

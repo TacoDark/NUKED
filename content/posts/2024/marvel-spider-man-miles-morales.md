@@ -6,6 +6,8 @@ url: /marvel-spider-man-miles-morales
 image: images/2024/marvel-spider-man-miles-morales.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

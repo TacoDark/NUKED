@@ -6,6 +6,8 @@ url: /batman-arkham-city
 image: images/2024/batman-arkham-city.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

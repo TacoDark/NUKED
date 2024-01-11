@@ -5,8 +5,11 @@ url: /feeding-frenzy-2
 image: images/2024/feeding-frenzy2.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Feeding Frenzy
 draft: false
 ---
 ##

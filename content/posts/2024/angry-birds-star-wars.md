@@ -6,8 +6,11 @@ url: /angry-birds-star-wars
 image: images/2024/angry-birds-star-wars.jpeg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Angry Birds
 draft: false
 ---
 ##

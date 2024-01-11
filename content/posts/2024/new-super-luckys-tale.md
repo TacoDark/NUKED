@@ -5,6 +5,8 @@ url: /new-super-luckys-tale
 image: images/2024/new-super-luckys-tale.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

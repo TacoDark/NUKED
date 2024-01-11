@@ -5,6 +5,8 @@ url: /igi1
 image: images/2024/igi1.jpg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
 draft: false

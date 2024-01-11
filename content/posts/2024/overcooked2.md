@@ -6,8 +6,11 @@ url: /overcooked2
 image: images/2024/overcooked2.jpeg
 categories:
   - Games
+  - Windows
+  - Linux
 tags:
   - Gaming
+  - Overcooked
 draft: false
 ---
 ##
