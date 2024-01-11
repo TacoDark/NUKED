@@ -185,11 +185,16 @@ hasChildren = true
     parent = "Tags"
 [[Languages.en.menu.main]]
     weight = 3
+    name = "Spider man"
+    url = "/tags/spider-man"
+    parent = "Tags"
+[[Languages.en.menu.main]]
+    weight = 4
     name = "Turtle Odyssey"
     url = "/tags/turtle-odyssey"
     parent = "Tags"
 [[Languages.en.menu.main]]
-    weight = 4
+    weight = 5
     name = "Feeding Frenzy"
     url = "/tags/feeding-frenzy"
     parent = "Tags"

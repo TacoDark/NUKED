@@ -10,6 +10,7 @@ categories:
   - Linux
 tags:
   - Gaming
+  - Spider Man
 draft: false
 ---
 ##
@@ -43,13 +44,13 @@ draft: false
 </figure>
 
 
-**Genres/Tags:** Action, Open world, Beat ’em up (Brawler), Third-person, 3D
+Genres/Tags: **Action, Open world, Beat ’em up (Brawler), Third-person, 3D**
 
-**Companies:** Insomniac Games, Nixxes Software, PlayStation PC LLC
+Companies: **Insomniac Games, Nixxes Software, PlayStation PC LLC**
 
-**Languages:** RUS/ENG/MULTI22
+Languages: **RUS/ENG/MULTI22**
 
-**Size:** 56.9 GiB
+Size: **56.9 GiB**
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Gr5H85CxI58" title="Marvel&#39;s Spider Man: Miles Morales - Official World Premiere Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
