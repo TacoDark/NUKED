@@ -77,6 +77,6 @@ NOTHING ripped, NOTHING re-encoded
 
 **DirectX:** 8.0 
 
-**Storage:** 500 MiB available space (SSD recommended)
+**Storage:** 500 MiB available space
 
 ## Linux
