@@ -47,7 +47,7 @@ Companies: **Team Cherry**
 
 Languages: **RUS/ENG/MULTI10**
 
-Size: **5.70 GB**
+Size: **7.5 GB**
 
 # ⠀
 # ⠀
