@@ -59,7 +59,7 @@ Size: **7.5 GB**
 <a href="magnet:?xt=urn:btih:Z56ZXLO4XVANA6I7BPBILHYMIRZB2HCA&dn=Hollow%20Knight" style="color: green;">Magnet</a>
 
 ## Torrent Features
-Based of **Steam-RIP release**
+Based of **GOG Version, Steam-RIP release**
 
 Version: **v1.5.78.11833**
 
