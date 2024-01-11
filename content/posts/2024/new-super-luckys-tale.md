@@ -71,7 +71,7 @@ NOTHING ripped, NOTHING re-encoded
 
 **Memory:** 8 GB RAM
 
-**Graphics:** Graphics: AMD Radeon R7 370 or NVIDIA GeForce GTX 660/570.
+**Graphics:** AMD Radeon R7 370 or NVIDIA GeForce GTX 660/570.
 
 **DirectX:** Version 11
 
