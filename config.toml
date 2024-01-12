@@ -195,11 +195,16 @@ hasChildren = true
     parent = "Tags"
 [[Languages.en.menu.main]]
     weight = 5
+    name = "Lego"
+    url = "/tags/lego"
+    parent = "Tags"
+[[Languages.en.menu.main]]
+    weight = 6
     name = "Turtle Odyssey"
     url = "/tags/turtle-odyssey"
     parent = "Tags"
 [[Languages.en.menu.main]]
-    weight = 6
+    weight = 7
     name = "Feeding Frenzy"
     url = "/tags/feeding-frenzy"
     parent = "Tags"
