@@ -50,7 +50,7 @@ Companies: **Rockstar North / Rockstar Games**
 
 Language : **RUS/ENG/MULTI13**
 
-Size: **7.3 GiB**
+Size: **111.2 GiB**
 # ⠀
 
 ## Trailer
@@ -77,6 +77,6 @@ NOTHING ripped, NOTHING re-encoded
 
 **DirectX:** Version 11
 
-**Storage:** 110 GB available space
+**Storage:** 120 GB available space
 
 ## Linux
