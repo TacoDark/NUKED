@@ -69,7 +69,7 @@ Replaced fitgirl release that was gog version with Steam-Rip Release
 
 Privite Online, Works now!
 
-Defernt Crack: **Online-Fix.me**
+Different Crack: **Online-Fix.me**
 
 ## Torrent Features
 Based of **Steam-Rip Release**

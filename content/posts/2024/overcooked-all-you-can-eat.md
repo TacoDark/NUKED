@@ -70,7 +70,7 @@ Newer version **v27.01.2023**
 
 Privite Online, Works now!
 
-Defernt Crack: **Online-Fix.me**
+Different Crack: **Online-Fix.me**
 
 ## Torrent Features
 Based of **Steam-Rip Release**
