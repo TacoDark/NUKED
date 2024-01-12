@@ -180,8 +180,8 @@ hasChildren = true
     parent = "Tags"
 [[Languages.en.menu.main]]
     weight = 2
-    name = "Overcooked"
-    url = "/tags/overcooked"
+    name = "Grand Theft Auto"
+    url = "/tags/grand-theft-auto"
     parent = "Tags"
 [[Languages.en.menu.main]]
     weight = 3
@@ -190,15 +190,19 @@ hasChildren = true
     parent = "Tags"
 [[Languages.en.menu.main]]
     weight = 4
+    name = "Overcooked"
+    url = "/tags/overcooked"
+    parent = "Tags"
+[[Languages.en.menu.main]]
+    weight = 5
     name = "Turtle Odyssey"
     url = "/tags/turtle-odyssey"
     parent = "Tags"
 [[Languages.en.menu.main]]
-    weight = 5
+    weight = 6
     name = "Feeding Frenzy"
     url = "/tags/feeding-frenzy"
     parent = "Tags"
-
 
 [[Languages.en.menu.main]]
     name = "Latest Videos"
