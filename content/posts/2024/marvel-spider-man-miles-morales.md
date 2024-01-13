@@ -56,14 +56,14 @@ Size: **56.9 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Gr5H85CxI58" title="Marvel&#39;s Spider Man: Miles Morales - Official World Premiere Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Mirrors
-<a href="magnet:?xt=urn:btih:6Z5UERSOYA27EPNPWORGLYUILBK5SVTY&dn=Marvel%E2%80%99s%20Spider-Man%20-%20Miles%20Morales" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:DZZUPCDZREQG25DTNYM37YURPIGVUHHE&dn=Marvel%E2%80%99s%20Spider-Man%20-%20Miles%20Morales" style="color: green;">Magnet</a>
 
 ## Torrent Features
 Based of **Steam-Rip release**
 
 Game version: **2.1012.0.0**; all DLCs are included and activated
 
-Mods: **LukeFZ FSR2FSR3 0.8.0 is preinstalled**
+Mods: **LukeFZ FSR2FSR3 0.9.0 is preinstalled**
 
 NOTHING ripped, NOTHING re-encoded
 
