@@ -3,7 +3,7 @@ title: "The Last of Us - Part I"
 
 date: 2024-01-13
 url: /the-last-of-us-part-1
-image: images/2024/the-last-of-us-part-1.jpg
+image: images/2024/the-last-of-us-part-1-1.jpg
 categories:
   - Games
   - Windows
@@ -16,7 +16,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/the-last-of-us-part-12.jpg') center center fixed no-repeat;
+    background: url('/images/2024/the-last-of-us-part-1-1-2.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -40,7 +40,7 @@ draft: false
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/the-last-of-us-part-1.jpg" alt="Overcooked! 2" style="width: 200px;">
+  <img src="/images/2024/the-last-of-us-part-1-1.jpg" alt="Overcooked! 2" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Action, Shooter, Stealth, Third-person, 3D, Horror**

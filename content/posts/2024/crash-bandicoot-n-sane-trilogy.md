@@ -2,7 +2,7 @@
 title: "Crash Bandicoot N. Sane Trilogy"
 date: 2024-01-09
 url: /crash-bandicoot-n-sane-trilogy
-image: images/2024/crash-bandicoot-n-sane-trilogy2.webp
+image: images/2024/crash-bandicoot-n-sane-trilogy-1.webp
 categories:
   - Games
   - Windows
@@ -15,7 +15,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/crash-bandicoot-n-sane-trilogy.webp') center center fixed no-repeat;
+    background: url('/images/2024/crash-bandicoot-n-sane-trilogy-1-2.webp') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -38,7 +38,7 @@ draft: false
 </audio>⠀⠀⠀
 ⠀
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/crash-bandicoot-n-sane-trilogy2.webp" alt="title: "Crash Bandicoot N. Sane Trilogy"" style="width: 200px;">
+  <img src="/images/2024/crash-bandicoot-n-sane-trilogy-1.webp" alt="title: "Crash Bandicoot N. Sane Trilogy"" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Arcade, Jump and run, Side, Third-person, 3D**

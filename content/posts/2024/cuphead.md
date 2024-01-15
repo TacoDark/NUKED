@@ -2,7 +2,7 @@
 title: "Cuphead"
 date: 2024-01-07
 url: /cuphead
-image: images/2024/cuphead.jpg
+image: images/2024/cuphead-1.jpg
 categories:
   - Games
   - Windows
@@ -15,7 +15,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/cuphead2.jpg') center center fixed no-repeat;
+    background: url('/images/2024/cuphead-1-2.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -38,7 +38,7 @@ draft: false
 </audio>⠀⠀⠀
 ⠀
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/cuphead.jpg" alt="title: "Cuphead"" style="width: 200px;">
+  <img src="/images/2024/cuphead-1.jpg" alt="title: "Cuphead"" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Arcade, Run and gun, Side, 2D**
