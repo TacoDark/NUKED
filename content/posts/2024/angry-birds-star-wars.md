@@ -1,7 +1,7 @@
 ---
 title: "Angry Birds Star Wars"
 
-date: 2024-01-07
+date: 2024-01-29
 url: /angry-birds-star-wars
 image: images/2024/angry-birds-star-wars.jpeg
 categories:
@@ -14,7 +14,35 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024/angry-birds-star-wars.jpeg)
+<style>
+  body.dark-mode,
+  body.dark-mode main * {
+    background: url('/images/2024/angry-birds-star-wars.webp') center center fixed no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+    color: #f5f5f5;
+  }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var body = document.body;
+        var switcher = document.querySelector('.js-toggle');
+                body.classList.add('dark-mode');
+                // Save user preference in storage
+                localStorage.setItem('darkMode', 'true');
+            
+        });
+</script>
+
+<audio controls autoplay>
+  <source src="/audio/angry-birds-star-wars.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
+
+
+<figure style="float: left; margin-right: 20px;">
+  <img src="/images/2024/angry-birds-star-wars.jpeg" alt="Batman - Arkham City" style="width: 200px;">
+</figure>
 
 Genres/Tags: **Old Games, 3D**
 
@@ -22,10 +50,12 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **106.4 MiB**
+Size: **106.6 MiB**
 
 ## Mirrors
-<a href="mamagnet:?xt=urn:btih:LVUHYJ3WE7LIOSK7TKQQ4X5JIN3DIJYT&dn=Angry%20Birds%20Star%20Wars" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:IZIOELNXF6XGJ5TC5TSTTAXCSH245UJR&dn=Angry%20Birds%20Star%20Wars" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/b6sdbswv0lfmw4xkxmgil/Angry-Birds-Star-Wars.torrent?rlkey=j493c9e1tiepxjmzjc2gx461y&dl=1" style="color: green;">[.torrent file only]</a>
+
 
 ## Torrent Features
 Based of **AngryBirdsStarWarsInstaller_1.5.0.exe, Rovio release**
@@ -49,3 +79,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

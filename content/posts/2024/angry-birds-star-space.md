@@ -1,9 +1,9 @@
 ---
-title: "Angry Birds Star Space"
+title: "Angry Birds Space"
 
-date: 2024-01-07
-url: /angry-birds-star-space
-image: images/2024/angry-birds-star-space.jpg
+date: 2024-01-29
+url: /angry-birds-space
+image: images/2024/angry-birds-space2.jpg
 categories:
   - Games
   - Windows
@@ -14,7 +14,35 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024/angry-birds-star-space.jpg)
+<style>
+  body.dark-mode,
+  body.dark-mode main * {
+    background: url('/images/2024/angry-birds-space.jpg') center center fixed no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+    color: #f5f5f5;
+  }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var body = document.body;
+        var switcher = document.querySelector('.js-toggle');
+                body.classList.add('dark-mode');
+                // Save user preference in storage
+                localStorage.setItem('darkMode', 'true');
+            
+        });
+</script>
+
+<audio controls autoplay>
+  <source src="/audio/angry-birds-space.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
+
+
+<figure style="float: left; margin-right: 20px;">
+  <img src="/images/2024/angry-birds-space2.jpg" alt="Batman - Arkham City" style="width: 200px;">
+</figure>
 
 Genres/Tags: **Old Games, 3D**
 
@@ -22,10 +50,12 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **148.7 MiB**
-
+Size: **148.8 MiB**
+# ⠀
+# ⠀
 ## Mirrors
-<a href="mammagnet:?xt=urn:btih:YCHPGVRD5AOHK2JQS42PLX4D4SSZR2IJ&dn=Angry%20Birds%20Space" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:WDB2ZG34P66FCOQI4RCJFZ36CSSIDYE4&dn=Angry%20Birds%20Space" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/ar2cubeg10w2uoa3jty0j/Angry-Birds-Space.torrent?rlkey=a9n2chblm462pyuf48t0iy44w&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Angry Birds Space Free Download (Update 13/11/2017), IGG-GAMES release**
@@ -51,3 +81,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly
