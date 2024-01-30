@@ -1,6 +1,6 @@
 ---
 title: "Burn Zombie Burn!"
-date: 2024-01-10
+date: 2024-01-29
 url: /burn-zombie-burn
 image: images/2024/burn-zombie-burn-1.jpg
 categories:
@@ -47,13 +47,14 @@ Companies: **doublesix, P2 Games**
 
 Languages: **ENG**
 
-Size: **430.0 MiB**
+Size: **430.2 MiB**
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UgRztfNkUyY" title="Burn Zombie Burn! trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:UIW4B5UCJLLKOJ43WTKCGG2H7DC2SYMC&dn=Burn%20Zombie%20Burn!" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:VBYOGDO6OCU3XF2RVR55KPL7C4LZI42Z&dn=Burn%20Zombie%20Burn!" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/7xl8oef5nxg08tcbg6z54/Burn-Zombie-Burn.torrent?rlkey=rm6a0cof0r8vz4k2nt8jw1iv9&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **I Dont remember whare i got it from**
@@ -73,3 +74,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

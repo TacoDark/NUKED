@@ -1,7 +1,7 @@
 ---
 title: "Blur"
 
-date: 2024-01-08
+date: 2024-01-29
 url: /blur
 image: images/2024/blur.webp
 categories:
@@ -54,13 +54,13 @@ Audio: **English, French, German, Italian, Spanish**
 Change language by renaming **english.txt file** to **other languages**
 
 ⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Size: **7.3 GiB**
-# ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6UHZLynZFjU" title="Blur - PC | PS3 | Xbox 360 - Freeze official video game trailer HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:5AG5R5HONAPHVOMSMORNO7XU5SELCWW2&dn=Blur" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:57X7RRMFPMWE72MEQXLV3XQPIMPCZQ7T&dn=Blur" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/0z6057r4yrijqj0k9q7x7/Blur.torrent?rlkey=7y4znk88jwso6eymdy3yr0qo8&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **908- Blur (Update 2 + MULTi5) – [DODI Repack],DODI release**
@@ -89,3 +89,7 @@ NOTHING ripped, NOTHING re-encoded
 **NET:** Broadband connection required for Multiplayer Connectivity
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

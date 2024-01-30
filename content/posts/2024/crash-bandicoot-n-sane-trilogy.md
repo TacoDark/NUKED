@@ -55,7 +55,8 @@ Size: **29.0 GB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4fbO2-egZ3U" title="The Comeback Trailer | Crash Bandicoot® N. Sane Trilogy | Crash Bandicoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:AHYYNNRR26I6HWI6AOYM7EURM5QJWR6L&dn=Crash%20Bandicoot%20N.%20Sane%20Trilogy" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:MDIRMIHGAL7KPJVUEVOSWMF5FAFKSLSJ&dn=Crash%20Bandicoot%20N.%20Sane%20Trilogy" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/4sluebjkjyvr7yv83l2fq/Crash-Bandicoot-N.-Sane-Trilogy.torrent?rlkey=dbuelvcxvzesfpidtqnqugjyd&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **CRASH BANDICOOT N. SANE TRILOGY, Fitgirl release**
@@ -81,3 +82,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

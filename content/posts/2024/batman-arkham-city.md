@@ -1,7 +1,7 @@
 ---
 title: "Batman - Arkham City"
 
-date: 2024-01-08
+date: 2024-01-29
 url: /batman-arkham-city
 image: images/2024/batman-arkham-city.jpg
 categories:
@@ -50,14 +50,15 @@ Companies: **Rocksteady Studios / Warner Bros. Interactive Entertainment**
 
 Language : **RUS/ENG/MULTI9**
 
-Size: **17.0 GiB**
+Size: **16.9 GiB**
 # ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/MlX--IPxTRU" title="Batman: Arkham City Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:IWXTHNSSMOLVAUHZXDVMGXAQXGYUFFXQ&dn=Batman%20-%20Arkham%20City" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:MLBID7WHFXYPJO47AHK2FLKACA6XDISU&dn=Batman%20-%20Arkham%20City" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/mnvnr759mxbtqsspqxuam/Batman-Arkham-City.torrent?rlkey=58xu7huh4ojcq3e6qa9117zw6&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **BATMAN: ARKHAM CITY – GAME OF THE YEAR EDITION, Fitgirl release**
@@ -80,3 +81,7 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 20 GB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly
