@@ -1,7 +1,7 @@
 ---
 title: "Update 1, Overcooked! All You Can Eat"
 
-date: 2024-01-09
+date: 2024-01-31
 url: /overcooked-all-you-can-eat
 image: images/2024/overcooked-all-you-can-eat.jpg
 categories:
@@ -58,7 +58,8 @@ Size: **8.5 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v9R7GMZw81E" title="Overcooked! All You Can Eat - Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:NGXOW3R2JNQD3NKU6GUXPQ2WNBRFRMEI&dn=Overcooked%20All%20You%20Can%20Eat" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:4IORL4DWQ3UMDLBX6JVL6QGLMA53536C&dn=Overcooked%20All%20You%20Can%20Eat" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/gdj8qeqhn5j5jcrk4xw8h/Overcooked-All-You-Can-Eat.torrent?rlkey=n8fgqfxjcebr40uwnsa5trkkm&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Changes
 
@@ -95,3 +96,5 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 10 GB available space
 
 ## Linux
+
+UnTested

@@ -1,6 +1,6 @@
 ---
 title: "Project IGI 1"
-date: 2024-01-09
+date: 2024-01-29
 url: /igi1
 image: images/2024/igi1.jpg
 categories:
@@ -47,14 +47,15 @@ Companies: **Innerloop Studios**
 
 Languages: **ENG**
 
-Size: **476 MB**
+Size: **476.7 MiB**
 # ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/9fBEd4e0-_M" title="Project IGI Launch Trailer: I&#39;m Going In" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:YFTB3ZBNF62XC5U2JMHEPPUWBDUAMKB2&dn=IGI%201" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:EUIQZZ5KPKJBFH2VVOGQW6KU2PCKJEP3&dn=IGI%201" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/1k5prwe0m3zn1rgze51pf/IGI-1.torrent?rlkey=6x3f7fv52407nfcbr50kq9xrt&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **I dont remember whare i got it from**
@@ -74,3 +75,7 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 1 GB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

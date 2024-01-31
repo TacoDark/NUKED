@@ -1,7 +1,7 @@
 ---
 title: "Overcooked Gourmet Edition"
 
-date: 2024-01-11
+date: 2024-01-31
 url: /overcooked-gourmet-edition
 image: images/2024/overcooked-gourmet-edition.webp
 categories:
@@ -56,7 +56,8 @@ Size: **761.5 MiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4zXCeg3JoJs" title="Overcooked - Gourmet Edition Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:YEBV45CA35OU4W7I6XFKV7GK3GRJ37A3&dn=Overcooked%20Gourmet%20Edition" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:HFVGFEEVPOYZKVX47VMGMBM5CWVOOWT6&dn=Overcooked%20Gourmet%20Edition" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/26rbge9rm7cv0yz7ivtcn/Overcooked-Gourmet-Edition.torrent?rlkey=l13qmu4zyvmk2gapiw5g9u9g7&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **IGG Games Release**
@@ -81,3 +82,7 @@ NOTHING ripped, NOTHING re-encoded
 **Additional Notes:** Gamepads Recommended
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

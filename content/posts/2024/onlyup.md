@@ -1,6 +1,6 @@
 ---
 title: "ONLY UP!"
-date: 2024-01-10
+date: 2024-01-31
 url: /onlyup
 image: images/2024/onlyup.jpg
 categories:
@@ -51,7 +51,8 @@ Size: **5.20 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/iAcyzB8SO5c" title="Only Up! | Game Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:LMIQAQB3ZY3WF3T4G22PK4TMYXLP72OG&dn=Only%20Up!" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:2VBDIQ4H6ONDZYMCY6P7TOKVS7JOI6HP&dn=Only%20Up!'s%20Tale" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/3xmileeix064rcc0bii9u/Only-Up.torrent?rlkey=ffbjlwu72enjmbxyuqgd1y4rk&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **SteamRip release**
@@ -73,3 +74,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

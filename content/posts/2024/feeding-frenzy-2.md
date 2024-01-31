@@ -1,6 +1,6 @@
 ---
 title: "Feeding Frenzy 2"
-date: 2024-01-09
+date: 2024-01-29
 url: /feeding-frenzy-2
 image: images/2024/feeding-frenzy2.jpg
 categories:
@@ -57,7 +57,8 @@ Size: **16.7 MiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/19jpho78HEk" title="Feeding Frenzy 2 trailer HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:QIFV5ADL5TZOQFMUEE367M653LOQQBUH&dn=Feeding%20Frenzy%202" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:2MWAHO6LZIS4KRH7UYRB7TLJOSCA23ZH&dn=Feeding%20Frenzy%202" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/opssqz6yl43q3xbsjuydq/Feeding-Frenzy-2.torrent?rlkey=dydw5neose92qaqq6krdvy7nz&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **I dont remember whare i got it**
@@ -79,3 +80,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

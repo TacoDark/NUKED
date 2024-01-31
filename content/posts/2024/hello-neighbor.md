@@ -1,7 +1,7 @@
 ---
 title: "Hello Neighbor"
 
-date: 2024-01-15
+date: 2024-01-29
 url: /hello-neighbor
 image: images/2024/hello-neighbor.jpg
 categories:
@@ -49,15 +49,15 @@ Companies: **Dynamic Pixels / tinyBuild**
 
 Language : **RUS/ENG/MULTI23**
 
-Size: **4.78 GB**
+Size: **9.2 GiB**
 # ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/eut-ehTyUJs" title="Hello Neighbor - Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:FIEBXLGVRN6JNN2ZJ7DXDS7CKTK4HFJE&dn=Hello%20Neighbor" style="color: green;">Magnet</a>
-
+<a href="magnet:?xt=urn:btih:4MKQUSFEQ6HGROZHIEECKFFRD4AKTJSE&dn=Hello%20Neighbor" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/6jxf2y7yrmkyoh9fpmss3/Hello-Neighbor.torrent?rlkey=d3hinw1qhxyhlncjrj0mv2fkd&dl=1" style="color: green;">[.torrent file only]</a>
 ## Torrent Features
 Based of **GOG Version, Steam-RIP Release**
 
@@ -77,3 +77,9 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 5 GB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Broken
+
+![Alt Text](/images/2024/broken.png)

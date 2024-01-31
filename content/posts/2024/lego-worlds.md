@@ -1,7 +1,7 @@
 ---
 title: "Lego Worlds"
 
-date: 2024-01-12
+date: 2024-01-31
 url: /lego-worlds
 image: images/2024/lego-worlds.jpg
 categories:
@@ -30,7 +30,8 @@ Size: **3.76 GB**
 # ⠀
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:GDQQXHWVWZ2DMNFED27W4MNP5PXOWRZK&dn=LEGO%20Worlds" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:J7XN33LTLJ34HRTIMXNWQW5JXAMMOTPN&dn=LEGO%20Worlds" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/r3f9p6l0472gwkncp4gme/LEGO-Worlds.torrent?rlkey=zh1vp24uvyin0gaev0x72pty7&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Fitgirl release**
@@ -54,3 +55,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

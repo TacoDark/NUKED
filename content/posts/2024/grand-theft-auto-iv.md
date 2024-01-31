@@ -1,7 +1,7 @@
 ---
 title: "Grand Theft Auto IV - The Complete Edition"
 
-date: 2024-01-12
+date: 2024-01-29
 url: /grand-theft-auto-iv
 image: images/2024/grand-theft-auto-iv.jpg
 categories:
@@ -50,14 +50,15 @@ Companies: **Rockstar North / Rockstar Games**
 
 Language : **RUS/ENG/MULTI7**
 
-Size: **30.06 GiB**
+Size: **30.1 GiB**
 # ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/lC7zpb2SUXw" title="GTA 6 TRAILER but it&#39;s GTA 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:KORZQ3X46M22JJCCVBZOPTK457Y3TLH5&dn=Grand%20Theft%20Auto%20IV%20-%20The%20Complete%20Edition" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:EBTMSTT7RJC3LP6VGBF3HRA4QKN3KORM&dn=Grand%20Theft%20Auto%20IV%20-%20The%20Complete%20Edition" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/q4oicgihckw1odn41u2vq/Grand-Theft-Auto-IV-The-Complete-Edition.torrent?rlkey=kanemihhg3e4ihzuacb91n8cp&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **GRAND THEFT AUTO IV: THE COMPLETE EDITION – V1.2.0.43 + RADIO DOWNGRADER + VANILLA FIXES MODPACK V1.6.2 + WRAPPERS, Fitgirl Release**
@@ -94,3 +95,7 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 32 GB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

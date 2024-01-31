@@ -1,6 +1,6 @@
 ---
 title: "New Super Luckys Tale"
-date: 2024-01-11
+date: 2024-01-31
 url: /new-super-luckys-tale
 image: images/2024/new-super-luckys-tale.jpg
 categories:
@@ -55,7 +55,8 @@ Size: **5.70 GB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NhZ3xiCNK28" title="Super Lucky&#39;s Tale Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:WTDXAPO35FPFJAICOFDQOROCC2IEUW2Q&dn=New%20Super%20Lucky's%20Tale" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:QQDJYVYHIW67ALBREVQAATYBDGPNRDXL&dn=New%20Super%20Lucky's%20Tale" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/sg1i6ispo165me4ehh0v8/New-Super-Lucky-s-Tale.torrent?rlkey=087v5b3jy5lfz52lq8thakfpw&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **IGG Games release**
@@ -79,3 +80,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

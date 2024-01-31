@@ -1,6 +1,6 @@
 ---
 title: "Lemon Cake"
-date: 2024-01-11
+date: 2024-01-31
 url: /lemon-cake
 image: images/2024/lemon-cake.jpg
 categories:
@@ -47,7 +47,7 @@ Companies: **Éloïse Laroche**
 
 Languages: **ENG**
 
-Size: **549.3 MiB**
+Size: **549.4 MiB**
 
 # ⠀
 
@@ -55,7 +55,8 @@ Size: **549.3 MiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-NGoriDlRuk" title="Lemon Cake - Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:LWLFY3BKZER3ZRKIA6ZVG24VMVFVWUXJ&dn=Lemon%20Cake-Unleashed" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:HKR4QGYSQH46WJKCGLJNH7HRZJYSWEVV&dn=Lemon%20Cake-Unleashed" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/d7ybf71029pj2l3yrf9a4/Lemon-Cake-Unleashed.torrent?rlkey=teqs6kfjac5roofl2ntbo71ti&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **IGG Games release**
@@ -77,3 +78,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

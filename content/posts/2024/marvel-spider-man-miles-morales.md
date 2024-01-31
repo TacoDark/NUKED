@@ -1,7 +1,7 @@
 ---
 title: "Marvel's Spider-Man: Miles Morales"
 
-date: 2024-01-07
+date: 2024-01-31
 url: /marvel-spider-man-miles-morales
 image: images/2024/marvel-spider-man-miles-morales.jpg
 categories:
@@ -56,7 +56,8 @@ Size: **56.9 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Gr5H85CxI58" title="Marvel&#39;s Spider Man: Miles Morales - Official World Premiere Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Mirrors
-<a href="magnet:?xt=urn:btih:DZZUPCDZREQG25DTNYM37YURPIGVUHHE&dn=Marvel%E2%80%99s%20Spider-Man%20-%20Miles%20Morales" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:EV6E5OXYWDUIGJL4GDPXLEGDW4SZFOJK&dn=Marvel%E2%80%99s%20Spider-Man%20-%20Miles%20Morales" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/sumxqv1apfw732klrvgfq/Marvel-s-Spider-Man-Miles-Morales.torrent?rlkey=nie9249yeresawguu37u1ru50&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Steam-Rip release**

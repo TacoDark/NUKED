@@ -1,7 +1,7 @@
 ---
 title: "Update 1, Overcooked! 2"
 
-date: 2024-01-08
+date: 2024-01-31
 url: /overcooked2
 image: images/2024/overcooked2.jpeg
 categories:
@@ -58,7 +58,8 @@ Size: **7.9 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/gEjbXb_eZcs" title="Overcooked 2: Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:WXLADUNADCRGJU6BOICHR7DI7A4JJ4ZU&dn=Overcooked!%202" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:2LWP5UU5BRZD76U4X7DOLZ265TFDZDZV&dn=Overcooked!%202" style="color: green;">Magnet</a>
+<a href="https://www.dropbox.com/scl/fi/nagsuqojpka5itd74stg4/Overcooked-2.torrent?rlkey=1cfq9k49uqawbt26w0ccikvo4&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Changes
 
@@ -93,4 +94,13 @@ NOTHING ripped, NOTHING re-encoded
 
 ## Linux
 
+For Steam
+
 `WINEDLLOVERRIDES="OnlineFix=n;SteamOverlay32=n;winmm=n,b;dnet=n;steam_api=n;StubDRM32=n" %command%`
+
+Works Single Player
+
+Inviteing your Friends only works on Windows!
+
+
+UnTested on Lutris

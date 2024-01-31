@@ -1,6 +1,6 @@
 ---
 title: "Hollow Knight"
-date: 2024-01-11
+date: 2024-01-29
 url: /hollow-knight
 image: images/2024/hollow-knight.jpg
 categories:
@@ -56,7 +56,8 @@ Size: **7.5 GB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UAO2urG23S4" title="Hollow Knight - Release Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:Z56ZXLO4XVANA6I7BPBILHYMIRZB2HCA&dn=Hollow%20Knight" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:JMKDAQ6YJ5APLDWIXUSB6ITQVT7TTMT2&dn=Hollow%20Knight" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/k70k7ntm53xl2r4whd4zb/Hollow-Knight.torrent?rlkey=47ys6kfbnwfe3a4w4lfk92dpt&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **GOG Version, Steam-RIP release**
@@ -80,3 +81,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Broken, It just crashs

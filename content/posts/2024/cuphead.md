@@ -1,6 +1,6 @@
 ---
 title: "Cuphead"
-date: 2024-01-07
+date: 2024-01-29
 url: /cuphead
 image: images/2024/cuphead-1.jpg
 categories:
@@ -47,7 +47,7 @@ Companies: **Studio MDHR**
 
 Languages: **RUS/ENG/MULTi12**
 
-Size: **5.39 GiB**
+Size: **5.4 GiB**
 
 # ⠀
 
@@ -55,7 +55,8 @@ Size: **5.39 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NN-9SQXoi50" title="Cuphead Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:Z3SSBPLA6DT34B3UXAL2RF463W6NIS3F&dn=Cuphead" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:PFTT6VCHHKZS2JII5EGLKSQLDJITOO52&dn=Cuphead" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/io6g3m1pv5bqt817047oe/Cuphead.torrent?rlkey=t6rj0h4zclltwntlgfgn04gmw&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Steam-Rip release**
@@ -81,3 +82,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

@@ -1,6 +1,6 @@
 ---
 title: "Feeding Frenzy 1"
-date: 2024-01-09
+date: 2024-01-29
 url: /feeding-frenzy-1
 image: images/2024/feeding-frenzy-12.jpg
 categories:
@@ -48,7 +48,7 @@ Companies: **GameFools**
 
 Languages: **ENG**
 
-Size: **11.5 MiB**
+Size: **11.6 MiB**
 
 # ⠀
 # ⠀
@@ -57,7 +57,8 @@ Size: **11.5 MiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/QpATi2Z8teY" title="Feeding Frenzy Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:FGZT37TKYQRSVZPJPWXUTKH6BKCRNSEK&dn=Feeding%20Frenzy%201" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:2C7MWAVEZHJVSCSRPUDVX4JRG4UFRAKS&dn=Feeding%20Frenzy%201" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/3js3kcpy3xlpso191pezb/Feeding-Frenzy-1.torrent?rlkey=y10yaoablfgd3hktd9vl9gozx&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **I dont remember whare i got it**
@@ -79,3 +80,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly
