@@ -1,7 +1,7 @@
 ---
 title: "Saints Row IV: Re-Elected"
 
-date: 2024-01-12
+date: 2024-02-01
 url: /saints-row-iv-re-elected
 image: images/2024/saints-row-iv-re-elected.jpg
 categories:
@@ -57,7 +57,8 @@ Size: **12.7 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0qhFgMRlgNo" title="Saints Row IV - Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:ORWSQGTVXG3QCXWBT2XVNN37YNNJJ34E&dn=Saints%20Row%20IV%20-%20Re-Elected" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:G4AEA4LWZVUHIDC6A7RN5F6CXF2HIDCE&dn=Saints%20Row%20IV%20-%20Re-Elected" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/70kkba3mwqlyid16k2nm7/Saints-Row-IV-Re-Elected.torrent?rlkey=rok3hq0mb9klcl6gws8womso0&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **SAINTS ROW IV: RE-ELECTED – BUILD 10105076 (CROSSPLAY UPDATE) + 26 DLCS + WINDOWS 7 FIX, Fitgirl Release**
@@ -82,3 +83,7 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 15 GB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

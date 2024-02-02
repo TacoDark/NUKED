@@ -1,6 +1,6 @@
 ---
 title: "Raft"
-date: 2024-01-09
+date: 2024-01-31
 url: /raft
 image: images/2024/raft.jpg
 categories:
@@ -55,7 +55,8 @@ Size: **9.58 GB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/__w615A5lC4" title="Raft - Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:GFYQEQ6ERREGGLHJCHA3JS43NYDUYLR3&dn=Raft" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:DB2OZDWGM3OGMDOOQKPKQ5Q2IETDFNFA&dn=Raft" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/nm2ckte1gzbe3e6j8a8wl/Raft.torrent?rlkey=lb20kzg7ur6sovp8nv1yrup9i&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **RAFT – V1.0 HOTFIX 1 (THE FINAL CHAPTER/BUILD 8973125) + MULTIPLAYER, Fitgirl release**
@@ -76,3 +77,7 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 10 GB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

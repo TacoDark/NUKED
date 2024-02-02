@@ -1,7 +1,7 @@
 ---
 title: "Rampage Knights"
 
-date: 2024-01-13
+date: 2024-01-31
 url: /rampage-knights
 image: images/2024/rampage-knights.webp
 categories:
@@ -57,7 +57,8 @@ Size: **150.1 MB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KLrZuTKEJ6Q" title="Rampage Knights Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:J5CJBOTSRNVNUL6Q6EAZLLBYCLXH2LRR&dn=Rampage%20Knights" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:DQQ5Q2N324JJLINMEDM3XBCZWIZTZAQE&dn=Rampage%20Knights" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/6ryrq0p2ppqknwnvd2f8r/Rampage-Knights.torrent?rlkey=jo37re0be6l04ydilf5fse8ct&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **IGG-Games Release**
@@ -78,3 +79,9 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 150 MB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Broken
+
+![Alt Text](/images/2024/rampage-knights-error-linux.png)

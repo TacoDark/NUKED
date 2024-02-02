@@ -1,6 +1,6 @@
 ---
 title: "Progressbar95"
-date: 2024-01-09
+date: 2024-01-31
 url: /progressbar95
 image: images/2024/progressbar95.webp
 categories:
@@ -53,7 +53,8 @@ Size: **97.0 MB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4r51zWoH574" title="Progressbar95 - Gameplay Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:J2JHD3UU7CAIQHQKZV5QDL2BLP2ORNAJ&dn=Progressbar95" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:HMH7V6OQDYEWUNOIWWIXXO3HF6DZS2NZ&dn=Progressbar95" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/phgyqhq0xlj2ss79f0muj/Progressbar95.torrent?rlkey=28sua0z6x52t25kdf4e8si8on&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **IGG GAMES release**
@@ -76,3 +77,7 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 150 MiB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Broken it just crashs
