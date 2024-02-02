@@ -1,7 +1,7 @@
 ---
 title: "Snail Mail"
 
-date: 2024-01-09
+date: 2024-02-01
 url: /snail-mail
 image: images/2024/snail-mail.jpg
 categories:
@@ -56,8 +56,8 @@ Size: **26.8 MB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/rvU-Q22FgEk" title="Snail Mail iPhone Trailer l Sandlot Games" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:RJM5KGOFZ3JYHAHDYJVHU2SXBAT5FIMP&dn=Snail%20Mail" style="color: green;">Magnet</a>
-
+<a href="magnet:?xt=urn:btih:LGHTRWLAUOD4IWVPAR4YGKR6NXTIUY35&dn=Snail%20Mail" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/hxpzzn9xsugkfyckjf5p6/Snail-Mail.torrent?rlkey=1rlf96mkaz1xjzvzbwngutmwo&dl=1" style="color: green;">[.torrent file only]</a>
 ## Torrent Features
 Based of **oldgamesdownload release**
 
@@ -77,3 +77,6 @@ NOTHING ripped, NOTHING re-encoded
 
 ## Linux
 
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

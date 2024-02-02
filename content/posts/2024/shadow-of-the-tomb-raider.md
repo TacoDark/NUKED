@@ -1,7 +1,7 @@
 ---
 title: "Shadow of the Tomb Raider"
 
-date: 2024-01-08
+date: 2024-02-01
 url: /shadow-of-the-tomb-raider
 image: images/2024/shadow-of-the-tomb-raider.jpeg
 categories:
@@ -56,7 +56,8 @@ Size: **39.7 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/XYtyeqVQnRI" title="Shadow Of The Tomb Raider - Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="mmagnet:?xt=urn:btih:VJ42LVUU3335VKF47YKHSRZFZJGBGUK7&dn=Shadow%20of%20the%20Tomb%20Raider" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:Q2NL4LVWLQ7LKTPBWORUYE6HFWSFA6WG&dn=Shadow%20of%20the%20Tomb%20Raider" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/1n7ena2rulubb6dsggtm5/Shadow-of-the-Tomb-Raider.torrent?rlkey=dwi6sh3p4yvcz6kqd55g2t8gy&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Steam-Rip release**
@@ -85,3 +86,6 @@ Audio language can be changed in game settings
 
 ## Linux
 
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

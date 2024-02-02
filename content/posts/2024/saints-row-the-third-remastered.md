@@ -1,7 +1,7 @@
 ---
 title: "Saints Row - The Third Remastered"
 
-date: 2024-01-07
+date: 2024-02-01
 url: /saints-row-the-third-remastered
 image: images/2024/saints-row-the-third-remastered.jpg
 categories:
@@ -57,7 +57,9 @@ Size: **46.4 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/_j5FAX8nEy8" title="Saints Row®: The Third™ - Remastered Launch Trailer (Official)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Mirrors
-<a href="magnet:?xt=urn:btih:JEO4KEPXA6NSUHVCOVIAIA5DNMFSKC3X&dn=Saints%20Row%20-%20The%20Third%20Remastered" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:VRCSRXCHQCIATCDRYQZ5MHQJXPGNKN4I&dn=Saints%20Row%20-%20The%20Third%20Remastered" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/ahngj01v5qdfryz9aex9c/Saints-Row-The-Third-Remastered.torrent?rlkey=ellx1j3ncavqnr0lhoa2wcd3p&dl=1" style="color: green;">[.torrent file only]</a>
+
 
 ## Torrent Features
 Based of **SAINTS ROW: THE THIRD – REMASTERED, V20211028 (EPIC STORE) + ALL DLCS + LAN MULTIPLAYER, Fitgirl release**
@@ -83,3 +85,7 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 50 GB available space (SSD recommended)
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly
