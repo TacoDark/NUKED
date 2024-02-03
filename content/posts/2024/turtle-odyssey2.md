@@ -1,7 +1,7 @@
 ---
 title: "Turtle Odyssey 2"
 
-date: 2024-01-08
+date: 2024-02-03
 url: /turtle-odyssey2
 image: images/2024/turtle-odyssey2.webp
 categories:
@@ -29,7 +29,8 @@ Size: **82.5 MiB**
 # ⠀
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:AEJZEQQWBXKYJFGXAPZFQORSHQ2EOTDL&dn=Turtle%20Odyssey%202" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:BVXI2KRCRYHUEYOCDNM5NI2TORUAHOQE&dn=Turtle%20Odyssey%202" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/8f3wwo7ntofkciay2rnci/Turtle-Odyssey-2.torrent?rlkey=6djpz7um1kv8qa5hjonjqk59t&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Gametop release**
@@ -51,3 +52,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

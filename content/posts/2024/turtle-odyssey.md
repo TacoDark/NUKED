@@ -1,7 +1,7 @@
 ---
 title: "Turtle Odyssey"
 
-date: 2024-01-08
+date: 2024-02-03
 url: /turtle-odyssey
 image: images/2024/turtle-odyssey.jpg
 categories:
@@ -29,7 +29,8 @@ Size: **33.8 MiB**
 # ⠀
 
 ## Mirrors
-<a href="magmagnet:?xt=urn:btih:OUIQWO5FTLWOMH4J3IKUAGHQR3K2UGUV&dn=Turtle%20Odyssey" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:GHFROBGSLRZ4KOTRBAQUQDDFILIIJYMQ&dn=Turtle%20Odyssey" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/r72xkqenvzs3vo87m23x8/Turtle-Odyssey.torrent?rlkey=zm2dc3gptjyurxt8zj1siieul&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Gametop release**
@@ -51,3 +52,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

@@ -1,6 +1,6 @@
 ---
 title: "Team Sonic Racing"
-date: 2024-01-09
+date: 2024-02-03
 url: /team-sonic-racing
 image: images/2024/team-sonic-racing.jpg
 categories:
@@ -55,7 +55,8 @@ Size: **26.8 GB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Av4UMMRAUNM" title="Team Sonic Racing - Speed Up Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:NPGCE2534MJTA755GQ3U7Q4W2WDOQXC2&dn=Team%20Sonic%20Racing" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:K7W7MSO2WRXOVQKXRJH3IA6NXKSDDNL5&dn=Team%20Sonic%20Racing" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/1x4zk0fsr3j2qkn1pt4bu/Team-Sonic-Racing.torrent?rlkey=0rdtvmyi47gtnswez55yduab2&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **TEAM SONIC RACING + MULTIPLAYER, Fitgirl release**
@@ -78,3 +79,7 @@ NOTHING ripped, NOTHING re-encoded
 
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Just Crashs
