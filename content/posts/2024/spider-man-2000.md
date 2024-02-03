@@ -1,7 +1,7 @@
 ---
 title: "Spider man 2000"
 
-date: 2024-01-11
+date: 2024-02-03
 url: /spider-man-2000
 image: images/2024/spider-man-2000.jpg
 categories:
@@ -48,7 +48,7 @@ Genres/Tags: **Action, Adventure, Platformer, 3D**
 
 Companies: **Neversoft, Vicarious Visions (GBC), Edge of Reality (N64), Activision**
 
-Languages: **RUS/ENG/MULTI22**
+Languages: **ENG**
 
 Size: **222.2 MiB**
 
@@ -58,7 +58,8 @@ Size: **222.2 MiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Jrm452GfO1U" title="Spider-Man PS1 trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Mirrors
-<a href="magnet:?xt=urn:btih:IO2DHRRSB45TF3W4FMXGVAWC223UPINP&dn=Spider%20Man%202000" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:3V6GIZMFVBPJTC72ZQFL3TV66JTTI6TN&dn=Spider%20Man%202000" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/2g7ee56utp7k9dlwh2mo0/Spider-Man-2000.torrent?rlkey=iukoh7ha11hk5zz7v0vxw17li&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **oldgamesdownload release**
@@ -80,3 +81,7 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 500 MiB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly

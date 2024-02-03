@@ -58,6 +58,7 @@ Size: **26.8 MB**
 ## Mirrors
 <a href="magnet:?xt=urn:btih:LGHTRWLAUOD4IWVPAR4YGKR6NXTIUY35&dn=Snail%20Mail" style="color: green;">[Magnet]</a>
 <a href="https://www.dropbox.com/scl/fi/hxpzzn9xsugkfyckjf5p6/Snail-Mail.torrent?rlkey=1rlf96mkaz1xjzvzbwngutmwo&dl=1" style="color: green;">[.torrent file only]</a>
+
 ## Torrent Features
 Based of **oldgamesdownload release**
 

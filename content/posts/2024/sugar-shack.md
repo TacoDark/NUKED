@@ -1,6 +1,6 @@
 ---
 title: "Sugar Shack"
-date: 2024-01-09
+date: 2024-02-03
 url: /sugar-shack
 image: images/2024/sugar-shack.jpg
 categories:
@@ -51,7 +51,8 @@ Size: **2.33 GB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/R_idLuo161o" title="Sugar Shack - Official Trailer | Publisher Spotlight Showcase 2023 (Freedom Games)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:CRMRJLX3PQXQD3DINVO6RAJE2DOZZO4D&dn=Sugar%20Shack" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:6J5AELKS5GTEABTCOKFNXQ6FKXXCC76X&dn=Sugar%20Shack" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/ffv2jhkivejd5twbbfwb2/Sugar-Shack.torrent?rlkey=9x114r0pzuzg6gz0xned4jhwl&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **SUGAR SHACK – V1.0.3-REV6153 + WINDOWS 7 FIX, Fitgirl release**
@@ -76,3 +77,11 @@ NOTHING ripped, NOTHING re-encoded
 **Storage:** 5 GB available space
 
 ## Linux
+
+Tested with Wine-GE 8-25 on Lutris
+
+C++ Runtime Error 
+
+Can by Fixed by installing `vcrun2022`
+
+Works Prefectly
