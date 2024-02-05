@@ -3,7 +3,7 @@ title: "Saints Row - The Third"
 
 date: 2024-02-01
 url: /saints-row-the-third
-image: images/2024/saints-row-the-third.png
+image: posts-files/saints-row-the-third/poster.png
 categories:
   - Games
   - Windows
@@ -17,7 +17,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/saints-row-the-third2.jpg') center center fixed no-repeat;
+    background: url('/posts-files/saints-row-the-third/background.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -35,12 +35,12 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/audio/saints-row-the-third-remastered.mp3" type="audio/mp3">
+  <source src="/posts-files/saints-row-the-third/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/saints-row-the-third.png" alt="Spider-Man: Miles Morales" style="width: 200px;">
+  <img src="/posts-files/saints-row-the-third/poster.png" alt="Spider-Man: Miles Morales" style="width: 200px;">
 </figure>
 
 
@@ -58,8 +58,8 @@ Size: **9.2 GiB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/csTf2Z7xlQ0" title="Saints Row: The Third - Official CG Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Mirrors
-<a href="magnet:?xt=urn:btih:EQFYUVNSGA5PPHY3J2NE6SAJCEUUXAX3&dn=Saints%20Row%20The%20Third" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/y5wlquw326hx3zbu7yxt3/Saints-Row-The-Third.torrent?rlkey=ppupuyteu87x2bbvz8ja49ehw&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:QHA2ONGLAHDRKF3ONXJBQTC25E6AT4RX&dn=Saints%20Row%20The%20Third" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/t3d3mcfbwg4sgnnkzb6ub/Saints-Row-The-Third.torrent?rlkey=4t4rb4x767m6xqibf52uedkru&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **GOG VERSION, 359- Saints Row: The Third – The Full Package [All DLCs + MULTi9] – [DODI Repack], DODI release**
@@ -87,5 +87,11 @@ NOTHING ripped, NOTHING re-encoded
 ## Linux
 
 Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly
+
+## Windows
+
+Tested on Windows 11 23h2
 
 Works Prefectly

@@ -3,7 +3,7 @@ title: "Grand Theft Auto Vice City 10 Year Anniversary Edition"
 
 date: 2024-01-29
 url: /grand-theft-auto-vice-city-10years
-image: images/2024/grand-theft-auto-vice-city-10years.png
+image: posts-files/grand-theft-auto-vice-city-10years/poster.png
 categories:
   - Games
   - Windows
@@ -17,7 +17,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/grand-theft-auto-vice-city-10years2.png') center center fixed no-repeat;
+    background: url('/posts-files/grand-theft-auto-vice-city-10years/background.png') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -35,13 +35,13 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/audio/grand-theft-auto-vice-city-10years.mp3" type="audio/mp3">
+  <source src="/posts-files/grand-theft-auto-vice-city-10years/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/grand-theft-auto-vice-city-10years.png" alt="Blur" style="width: 200px;">
+  <img src="/posts-files/grand-theft-auto-vice-city-10years/poster.png" alt="Blur" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Action (Shooter), 3rd Person, Open World, 3D**
@@ -55,8 +55,8 @@ Language : **ENG**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/1OOTXDuer8M" title="GTA VI Trailer but it&#39;s GTA Vice City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:PGDP5YXM2QCU5K4RTJJ7MEGHKTU6HOJB&dn=Grand%20Theft%20Auto%20Vice%20City%2010%20Year%20Anniversary%20Edition" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/jw31qz5eavfn70kcb5qg8/Grand-Theft-Auto-Vice-City-10-Year-Anniversary-Edition.torrent?rlkey=8b223cr9swgvd0y70wbyyqgc8&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:W7TTZAM3EJZM4HRFPAD3FXBZ2W5DTSXB&dn=Grand%20Theft%20Auto%20Vice%20City%2010%20Year%20Anniversary%20Edition" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/jsu60r1ubvccs6cuhodzf/Grand-Theft-Auto-Vice-City-10-Year-Anniversary-Edition.torrent?rlkey=dikbpjqavq2fbp65tbxwxg6no&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Dodi Release**

@@ -3,7 +3,7 @@ title: "Grand Theft Auto IV - The Complete Edition"
 
 date: 2024-01-29
 url: /grand-theft-auto-iv
-image: images/2024/grand-theft-auto-iv.jpg
+image: posts-files/grand-theft-auto-iv/poster.jpg
 categories:
   - Games
   - Windows
@@ -17,7 +17,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/grand-theft-auto-iv.webp') center center fixed no-repeat;
+    background: url('/posts-files/grand-theft-auto-iv/background.webp') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -35,13 +35,13 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/audio/grand-theft-auto-iv.mp3" type="audio/mp3">
+  <source src="/posts-files/grand-theft-auto-iv/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/grand-theft-auto-iv.jpg" alt="Blur" style="width: 200px;">
+  <img src="/posts-files/grand-theft-auto-iv/poster.jpg" alt="Blur" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Action (Shooter), 3rd Person, Open World, 3D**

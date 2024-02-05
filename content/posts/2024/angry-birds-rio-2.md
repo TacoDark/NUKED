@@ -3,7 +3,7 @@ title: "Angry Birds Rio 2"
 
 date: 2024-01-29
 url: /angry-birds-rio-2
-image: images/2024/angry-birds-rio-2.jpg
+image: posts-files/angry-birds-rio-2/poster.png
 categories:
   - Games
   - Windows
@@ -17,7 +17,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/angry-birds-rio-2-2.jpg') center center fixed no-repeat;
+    background: url('/posts-files/angry-birds-rio-2/background.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -35,13 +35,13 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/audio/angry-birds-rio-2.mp3" type="audio/mp3">
+  <source src="/posts-files/angry-birds-rio-2/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/angry-birds-rio-2.jpg" alt="Batman - Arkham City" style="width: 200px;">
+  <img src="/posts-files/angry-birds-rio-2/poster.png" alt="Batman - Arkham City" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**
@@ -82,5 +82,11 @@ NOTHING ripped, NOTHING re-encoded
 ## Linux
 
 Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly
+
+## Windows
+
+Tested on Windows 11 23h2
 
 Works Prefectly

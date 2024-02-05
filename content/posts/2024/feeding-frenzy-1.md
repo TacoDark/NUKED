@@ -2,7 +2,7 @@
 title: "Feeding Frenzy 1"
 date: 2024-01-29
 url: /feeding-frenzy-1
-image: images/2024/feeding-frenzy-12.jpg
+image: posts-files/feeding-frenzy-1/poster.jpg
 categories:
   - Games
   - Windows
@@ -16,7 +16,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/feeding-frenzy-1.jpg') center center fixed no-repeat;
+    background: url('/posts-files/feeding-frenzy-1/background.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -34,12 +34,12 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/audio/feeding-frenzy1.mp3" type="audio/mp3">
+  <source src="/posts-files/feeding-frenzy-1/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>⠀⠀⠀
 ⠀
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/feeding-frenzy-12.jpg" alt="title: "Feeding Frenzy 1"" style="width: 200px;">
+  <img src="/posts-files/feeding-frenzy-1/poster.jpg" alt="title: "Feeding Frenzy 1"" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Game, 2D**
@@ -82,5 +82,11 @@ NOTHING ripped, NOTHING re-encoded
 ## Linux
 
 Tested with Wine-GE 8-25 on Lutris
+
+Works Prefectly
+
+## Windows
+
+Tested on Windows 11 23h2
 
 Works Prefectly
