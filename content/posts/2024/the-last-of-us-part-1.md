@@ -49,14 +49,16 @@ Companies: **Naughty Dog, Sony Interactive Entertainment**
 
 Language : **RUS/ENG/MULTI24**
 
-Size: **78.41 GB**
+Size: **85 GB**
 # ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/R2Ebc_OFeug" title="The Last of Us Part I - Launch Trailer | PS5 Games" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:4I6J3W3KOKR2HN42YHF53LSWEJ7N7RD2&dn=The%20Last%20of%20Us%20Part%20I" style="color: green;">Magnet</a>
+<a href="<a href="magnet:?xt=urn:btih:KQKU3ZKNOOTITUJOOSN5YBAXMOA6RVNM&dn=Marvel's.Spider-Man.Miles.Morales.Steam.Rip-InsaneRamZes&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann" style="color: green;">[Magnet]</a>
+" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/xtrwlqtosw2a43vo2pa3l/The-Last-of-US-Part-I-v1.1.2.0.torrent?rlkey=18i7e0ivv1buyu99bl1qi5uas&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Steam-RIP Release**
@@ -64,8 +66,6 @@ Based of **Steam-RIP Release**
 Crack: **Codex**
 
 Version: **v1.1.2.0**
-
-Mods: **LukeFZ FSR2FSR3 0.9.0 is preinstalled**
 
 NOTHING ripped, NOTHING re-encoded
 
