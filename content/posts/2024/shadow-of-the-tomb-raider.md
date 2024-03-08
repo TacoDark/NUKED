@@ -49,20 +49,20 @@ Companies: **Eidos-Montreal, Nixxes Software**
 
 Languages: **RUS/ENG/MULTI12**
 
-Size: **39.7 GiB**
+Size: **64 GiB**
 # ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/XYtyeqVQnRI" title="Shadow Of The Tomb Raider - Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:Q2NL4LVWLQ7LKTPBWORUYE6HFWSFA6WG&dn=Shadow%20of%20the%20Tomb%20Raider" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/1n7ena2rulubb6dsggtm5/Shadow-of-the-Tomb-Raider.torrent?rlkey=dwi6sh3p4yvcz6kqd55g2t8gy&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:T54WISMEFX4A2XPUNMG4WXGW5OV6BRCW&dn=Shadow%20of%20the%20Tomb%20Raider%20-%20Definitive%20Edition%20v.1.0.492.0%20(2018)&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/l8ndmp6f4380a6nck7kvb/Shadow-of-the-Tomb-Raider-Definitive-Edition-v.1.0.492.0-2018.torrent?rlkey=onk589ngbufoolbwfovsaae1j&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Steam-Rip release**
 
-Game version: **v1.0.453.0**; all DLCs are included and activated
+Game version: **v1.0.492.0**; all DLCs are included and activated
 
 NOTHING ripped, NOTHING re-encoded
 
@@ -86,6 +86,6 @@ Audio language can be changed in game settings
 
 ## Linux
 
-Tested with Wine-GE 8-25 on Lutris
+Tested with Proton Expernatal on Lutris
 
 Works Prefectly

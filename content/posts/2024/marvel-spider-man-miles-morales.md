@@ -83,3 +83,9 @@ Audio language can be changed in game settings
 **Storage:** 75 GB available space (SSD recommended)
 
 **RES:** 1080p @ 60 fps, medium preset
+
+## Linux
+
+Tested with Proton Expernatal on Lutris
+
+Works Prefectly
