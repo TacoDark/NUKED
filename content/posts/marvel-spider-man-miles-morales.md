@@ -50,21 +50,19 @@ Companies: **Insomniac Games, Nixxes Software, PlayStation PC LLC**
 
 Languages: **RUS/ENG/MULTI22**
 
-Size: **56.9 GiB**
+Size: **60 GiB**
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Gr5H85CxI58" title="Marvel&#39;s Spider Man: Miles Morales - Official World Premiere Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Mirrors
-<a href="magnet:?xt=urn:btih:EV6E5OXYWDUIGJL4GDPXLEGDW4SZFOJK&dn=Marvel%E2%80%99s%20Spider-Man%20-%20Miles%20Morales" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/sumxqv1apfw732klrvgfq/Marvel-s-Spider-Man-Miles-Morales.torrent?rlkey=nie9249yeresawguu37u1ru50&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:KQKU3ZKNOOTITUJOOSN5YBAXMOA6RVNM&dn=Marvel's.Spider-Man.Miles.Morales.Steam.Rip-InsaneRamZes&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/1soawamtl4slcp56gzdj9/Marvel-s-Spider-Man-Miles-Morales-v2.1012.0.0.torrent?rlkey=embxupx2ky0pmns3cj0pxcvqf&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based of **Steam-Rip release**
 
 Game version: **2.1012.0.0**; all DLCs are included and activated
-
-Mods: **LukeFZ FSR2FSR3 0.9.0 is preinstalled**
 
 NOTHING ripped, NOTHING re-encoded
 
@@ -85,52 +83,3 @@ Audio language can be changed in game settings
 **Storage:** 75 GB available space (SSD recommended)
 
 **RES:** 1080p @ 60 fps, medium preset
-
-## Linux
-
-### How to install
-
-### Steam
-
-Open Steam and click add non steam game
-
-![](/images/2024/marvel-spider-man-miles-morales/1.png)
-
-Click Browse...
-
-![](/images/2024/marvel-spider-man-miles-morales/2.png)
-
-Find the game path and chose MilesMorales.exe and click open
-
-![](/images/2024/marvel-spider-man-miles-morales/3.png)
-
-Make Sure that MilesMorales.exe is checked and clcik Add Seleceted Programs
-
-![](/images/2024/marvel-spider-man-miles-morales/4.png)
-
-Right click MilesMorales.exe and click properties
-
-![](/images/2024/marvel-spider-man-miles-morales/5.png)
-
-Add in steam game argements `WINEDLLOVERRIDES="winmm=n,b" %command%` for fsr 3 mod to work
-
-![](/images/2024/marvel-spider-man-miles-morales/6.png)
-
-Click Compatibility and click Force the use of specfitc steam play compatbilty tool and chose proton experimental
-
-![](/images/2024/marvel-spider-man-miles-morales/7.png)
-
-Now you can click play and Marvel's Spider-Man: Miles Morales will just start and work
-
-### Lutris
-
-Open lutris and click +
-
-![](/images/2024/marvel-spider-man-miles-morales/8.png)
-
-Click add locally installed game
-
-![](/images/2024/marvel-spider-man-miles-morales/9.png)
-
-Marvel’s Spider-Man - Miles Morales
-![](/images/2024/marvel-spider-man-miles-morales/10.png)
