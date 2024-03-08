@@ -57,7 +57,6 @@ Size: **85 GB**
 
 ## Mirrors
 <a href="<a href="magnet:?xt=urn:btih:KQKU3ZKNOOTITUJOOSN5YBAXMOA6RVNM&dn=Marvel's.Spider-Man.Miles.Morales.Steam.Rip-InsaneRamZes&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann" style="color: green;">[Magnet]</a>
-" style="color: green;">[Magnet]</a>
 <a href="https://www.dropbox.com/scl/fi/xtrwlqtosw2a43vo2pa3l/The-Last-of-US-Part-I-v1.1.2.0.torrent?rlkey=18i7e0ivv1buyu99bl1qi5uas&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
