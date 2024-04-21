@@ -1,7 +1,7 @@
 ---
 title: "Hello Neighbor"
 
-date: 2024-01-29
+date: 2024-03-30
 url: /hello-neighbor
 image: images/2024/hello-neighbor.jpg
 categories:
@@ -49,15 +49,15 @@ Companies: **Dynamic Pixels / tinyBuild**
 
 Language : **RUS/ENG/MULTI23**
 
-Size: **9.2 GiB**
+Size: **4.78 GiB**
 # ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/eut-ehTyUJs" title="Hello Neighbor - Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:4MKQUSFEQ6HGROZHIEECKFFRD4AKTJSE&dn=Hello%20Neighbor" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/6jxf2y7yrmkyoh9fpmss3/Hello-Neighbor.torrent?rlkey=d3hinw1qhxyhlncjrj0mv2fkd&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:FQ6BZ327D2ASRGMH4WRSFLMWONK7MYAW&dn=Hello%20Neighbor" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/yg678lve8cca0xb63ghzn/Hello-Neighbor.torrent?rlkey=pkl8nopjeul5l06x7eljsiwyz&st=fjt2gl05&dl=1" style="color: green;">[.torrent file only]</a>
 ## Torrent Features
 Based of **GOG Version, Steam-RIP Release**
 
