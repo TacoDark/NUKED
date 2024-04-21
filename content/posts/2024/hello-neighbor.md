@@ -59,7 +59,9 @@ Size: **4.78 GiB**
 <a href="magnet:?xt=urn:btih:FQ6BZ327D2ASRGMH4WRSFLMWONK7MYAW&dn=Hello%20Neighbor" style="color: green;">[Magnet]</a>
 <a href="https://www.dropbox.com/scl/fi/yg678lve8cca0xb63ghzn/Hello-Neighbor.torrent?rlkey=pkl8nopjeul5l06x7eljsiwyz&st=fjt2gl05&dl=1" style="color: green;">[.torrent file only]</a>
 ## Torrent Features
-Based of **GOG Version, Steam-RIP Release**
+Based on <a href="https://rutracker.org/forum/viewtopic.php?t=5731313" style="color: green;">Rutracker</a>
+
+Based of **GOG Version, setup_hello_neighbor_1.4_(64bit)_(30828).torrent**
 
 Version: **v1.4**
 
