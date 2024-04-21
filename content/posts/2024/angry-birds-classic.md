@@ -50,7 +50,7 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **159.4 MiB**
+Size: **209.2 MiB**
 
 ## Mirrors
 <a href="magnet:?xt=urn:btih:5YL6WFE62OV6KEFMDUTKRIXIHN5CHRSS&dn=Angry%20Birds" style="color: green;">[Magnet]</a>

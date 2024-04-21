@@ -50,7 +50,7 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **103.3 MiB**
+Size: **180.6 MiB**
 
 # ⠀
 # ⠀

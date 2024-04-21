@@ -50,7 +50,7 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **148.8 MiB**
+Size: **137.5 MiB**
 # ⠀
 # ⠀
 ## Mirrors

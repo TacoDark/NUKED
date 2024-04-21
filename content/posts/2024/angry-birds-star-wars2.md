@@ -50,7 +50,7 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **111.5 MiB**
+Size: **111.1 MiB**
 
 ## Mirrors
 <a href="magnet:?xt=urn:btih:QBPQEBDU65J56HSREYMFYRQYNAHIVRL3&dn=Angry%20Birds%20Star%20Wars%20II" style="color: green;">[Magnet]</a>
