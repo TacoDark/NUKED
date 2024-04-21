@@ -3,7 +3,7 @@ title: "Angry Birds Star Wars 2"
 
 date: 2024-03-29
 url: /angry-birds-star-wars2
-image: posts-files/angry-birds-star-wars2/poster.jpeg
+image: posts-files/angry-birds-star-wars2/poster.webp
 categories:
   - Games
   - Windows
@@ -41,7 +41,7 @@ draft: false
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/posts-files/angry-birds-star-wars2/poster.jpeg" alt="Angry Birds Star Wars 2" style="width: 200px;">
+  <img src="/posts-files/angry-birds-star-wars2/poster.webp" alt="Angry Birds Star Wars 2" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**
