@@ -80,8 +80,4 @@ NOTHING ripped, NOTHING re-encoded
 
 ## Linux
 
-Tested with Wine-GE 8-25 on Lutris
-
-Broken
-
-![Alt Text](/images/2024/broken.png)
+not tested
