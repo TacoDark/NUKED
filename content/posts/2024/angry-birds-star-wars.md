@@ -1,7 +1,7 @@
 ---
 title: "Angry Birds Star Wars"
 
-date: 2024-01-29
+date: 2024-03-29
 url: /angry-birds-star-wars
 image: posts-files/angry-birds-star-wars/poster.jpeg
 categories:
@@ -41,7 +41,7 @@ draft: false
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/posts-files/angry-birds-star-wars/poster.jpeg" alt="Batman - Arkham City" style="width: 200px;">
+  <img src="/posts-files/angry-birds-star-wars/poster.jpeg" alt="Angry Birds Star Wars" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**
@@ -53,11 +53,13 @@ Languages: **ENG**
 Size: **106.6 MiB**
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:IZIOELNXF6XGJ5TC5TSTTAXCSH245UJR&dn=Angry%20Birds%20Star%20Wars" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/b6sdbswv0lfmw4xkxmgil/Angry-Birds-Star-Wars.torrent?rlkey=j493c9e1tiepxjmzjc2gx461y&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:LR4EF2SZPRK4A3XMNDJLUV5WSL4CJVBL&dn=Angry%20Birds%20Star%20Wars" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/j5alzvnsfp9246nalapv0/Angry-Birds-Star-Wars.torrent?rlkey=9h7w9nxv62cnbzs5v18a53qjb&st=c9k25iia&dl=1" style="color: green;">[.torrent file only]</a>
 
 
 ## Torrent Features
+Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>
+
 Based of **AngryBirdsStarWarsInstaller_1.5.0.exe, Rovio release**
 
 Game version: **v1.5.0**

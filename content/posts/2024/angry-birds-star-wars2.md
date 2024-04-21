@@ -1,9 +1,9 @@
 ---
-title: "Angry Birds Seasons"
+title: "Angry Birds Star Wars 2"
 
-date: 2024-01-29
-url: /angngry-birds-seasons
-image: posts-files/angry-birds-seasons/poster.jpg
+date: 2024-03-29
+url: /angry-birds-star-wars2
+image: posts-files/angry-birds-star-wars2/poster.jpeg
 categories:
   - Games
   - Windows
@@ -17,7 +17,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/posts-files/angry-birds-seasons/background.png') center center fixed no-repeat;
+    background: url('/posts-files/angry-birds-star-wars2/background.webp') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -35,13 +35,13 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/posts-files/angry-birds-seasons/music.mp3" type="audio/mp3">
+  <source src="/posts-files/angry-birds-star-wars2/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/posts-files/angry-birds-seasons/poster.jpg" alt="Batman - Arkham City" style="width: 200px;">
+  <img src="/posts-files/angry-birds-star-wars2/poster.jpeg" alt="Angry Birds Star Wars 2" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**
@@ -50,18 +50,18 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **103.3 MiB**
+Size: **111.5 MiB**
 
-# ⠀
-# ⠀
 ## Mirrors
-<a href="magnet:?xt=urn:btih:IPWLOTZUNL7YCAKPIZREL6KLCEYTCOET&dn=Angry%20Birds%20Seasons" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/bk6euzbu8fo3710wofckj/Angry-Birds-Seasons.torrent?rlkey=zzcfyoscyxw5dbxjgt5ujrx8a&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:QBPQEBDU65J56HSREYMFYRQYNAHIVRL3&dn=Angry%20Birds%20Star%20Wars%20II" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/22pkwytpho5vqfl916nz0/Angry-Birds-Star-Wars-II.torrent?rlkey=a4b4jiekovw5n0p9lt5e59268&st=z9parmcw&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
-Based of **AngryBirdsSeasonsInstaller_4.0.1.exe, Rovio release**
+Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>
 
-Game version: **v4.0.1**
+Based of **AngryBirdsStarWarsIIInstaller_1.5.1.exe	, Rovio release**
+
+Game version: **v1.5.1**
 
 NOTHING ripped, NOTHING re-encoded
 

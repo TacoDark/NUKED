@@ -1,7 +1,7 @@
 ---
 title: "Angry Birds Classic"
 
-date: 2024-01-29
+date: 2024-03-29
 url: /angry-birds-classic
 image: posts-files/angry-birds-classic/poster.jpg
 categories:
@@ -41,7 +41,7 @@ draft: false
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/posts-files/angry-birds-classic/poster.jpg" alt="Batman - Arkham City" style="width: 200px;">
+  <img src="/posts-files/angry-birds-classic/poster.jpg" alt="Angry Birds Classic" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**
@@ -53,13 +53,15 @@ Languages: **ENG**
 Size: **159.4 MiB**
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:4TSSCX4TJRYBLW4MAJGANBR6GPI25WLD&dn=Angry%20Birds%20Classic" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/24x4l1mxcbm2rta3xprm7/Angry-Birds-Classic.torrent?rlkey=h7mylt5up8wvwiripxdypjfx3&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:5YL6WFE62OV6KEFMDUTKRIXIHN5CHRSS&dn=Angry%20Birds" style="color: green;">[Magnet]</a>
+<a href="httpshttps://www.dropbox.com/scl/fi/b5usakk34kvfs790kpzjw/Angry-Birds.torrent?rlkey=7cgbu512u8fm9umjl8rwpzcu9&st=9isaau2x&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
-Based of **AngryBirdsInstaller__3.3.0.exe, Rovio release**
+Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>
 
-Game version: **v3.3.0**
+Based of **AngryBirdsInstaller_4.0.0.exe, Rovio release**
+
+Game version: **v4.0.0**
 
 NOTHING ripped, NOTHING re-encoded
 

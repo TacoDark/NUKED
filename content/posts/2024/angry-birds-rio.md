@@ -1,9 +1,9 @@
 ---
-title: "Angry Birds Space"
+title: "Angry Birds Rio"
 
-date: 2024-01-29
-url: /angry-birds-space
-image: posts-files/angry-birds-space/poster.jpg
+date: 2024-03-29
+url: /angry-birds-rio
+image: posts-files/angry-birds-rio/poster.png
 categories:
   - Games
   - Windows
@@ -17,7 +17,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/posts-files/angry-birds-space/background.jpg') center center fixed no-repeat;
+    background: url('/posts-files/angry-birds-rio/background.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -35,13 +35,13 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/posts-files/angry-birds-space/music.mp3" type="audio/mp3">
+  <source src="/posts-files/angry-birds-rio/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/posts-files/angry-birds-space/poster.jpg" alt="Batman - Arkham City" style="width: 200px;">
+  <img src="/posts-files/angry-birds-rio/poster.png" alt="Angry Birds Rio" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Old Games, 3D**
@@ -50,19 +50,20 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **148.8 MiB**
+Size: **140.9 MiB**
+
 # ⠀
-# ⠀
+
 ## Mirrors
-<a href="magnet:?xt=urn:btih:WDB2ZG34P66FCOQI4RCJFZ36CSSIDYE4&dn=Angry%20Birds%20Space" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/ar2cubeg10w2uoa3jty0j/Angry-Birds-Space.torrent?rlkey=a9n2chblm462pyuf48t0iy44w&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:EVNLB5L274NFG7JEXA6CZ2RJ7XWVUZNM&dn=Angry%20Birds%20Rio" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/tsulzs1pdeuo19stwu11x/Angry-Birds-Rio.torrent?rlkey=lma8ksokeolb904p92nlxtlkz&st=0rwa01iu&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
-Based of **Angry Birds Space Free Download (Update 13/11/2017), IGG-GAMES release**
+Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>
 
-Crack: **SmartSteamEmu**
+Based of **AngryBirdsRioInstaller_2.2.0.exe, Rovio release**
 
-Game version: **13/11/2017**
+Game version: **v2.2.0**
 
 NOTHING ripped, NOTHING re-encoded
 
@@ -77,7 +78,7 @@ NOTHING ripped, NOTHING re-encoded
 
 **DirectX:** Version 9
 
-**Storage:** 1 GB available space
+**Storage:** 500 MiB available space
 
 
 ## Linux
