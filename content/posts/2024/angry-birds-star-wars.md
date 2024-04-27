@@ -52,10 +52,26 @@ Languages: **ENG**
 
 Size: **106.3 MiB**
 
+## Trailer
+<iframe width="640" height="360" src="https://www.youtube.com/embed/l6lYFO_tKlE" title="Angry Birds Star Wars Cinematic Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Mirrors
 <a href="magnet:?xt=urn:btih:LR4EF2SZPRK4A3XMNDJLUV5WSL4CJVBL&dn=Angry%20Birds%20Star%20Wars" style="color: green;">[Magnet]</a>
 <a href="https://www.dropbox.com/scl/fi/j5alzvnsfp9246nalapv0/Angry-Birds-Star-Wars.torrent?rlkey=9h7w9nxv62cnbzs5v18a53qjb&st=c9k25iia&dl=1" style="color: green;">[.torrent file only]</a>
 
+## Key
+THET-ALEV-LEFR-USWO
+
+XOXO-OXOX-XXOO-OOXX
+
+ERES-ERES-ERES-ERES 
+
+ABCD-EFGH-IJKL-MNOP
+
+AAAA-AAAA-AAAA-AAAA 
+
+Angry Birds Rio:
+CLST-GORM-SPRG-LACH
 
 ## Torrent Features
 Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>
@@ -82,7 +98,7 @@ NOTHING ripped, NOTHING re-encoded
 
 ## Linux
 
-Tested with Wine-GE 8-25 on Lutris
+Tested with Proton-GE 9-4 on Bottles
 
 Works Prefectly
 

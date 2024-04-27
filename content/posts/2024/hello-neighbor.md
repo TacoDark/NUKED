@@ -3,7 +3,7 @@ title: "Hello Neighbor"
 
 date: 2024-03-30
 url: /hello-neighbor
-image: images/2024/hello-neighbor.jpg
+image: posts-files/hello-neighbor/poster.jpg
 categories:
   - Games
   - Windows
@@ -16,7 +16,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/hello-neighbor.webp') center center fixed no-repeat;
+    background: url('/posts-files/hello-neighbor/background.webp') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -34,13 +34,13 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/audio/hello-neighbor.mp3" type="audio/mp3">
+  <source src="/posts-files/hello-neighbor/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/hello-neighbor.jpg" alt="Hello Neighbor" style="width: 200px;">
+  <img src="/posts-files/hello-neighbor/poster.jpg" alt="Hello Neighbor" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Adventure, Stealth, First-person, 3D, Horror**

@@ -1,9 +1,9 @@
 ---
 title: "Alien Shooter 2: Reloaded"
 
-date: 2024-01-29
+date: 2024-03-29
 url: /alien-shooter-2
-image: images/2024/alien-shooter-2.webp
+image: posts-files/alien-shooter-2/poster.webp 
 categories:
   - Games
   - Windows
@@ -16,7 +16,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/alien-shooter-2.jpg') center center fixed no-repeat;
+    background: url('/posts-files/alien-shooter-2/background.jpg') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -34,13 +34,13 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/audio/alien-shooter-2.mp3" type="audio/mp3">
+  <source src="/posts-files/alien-shooter-2/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/alien-shooter-2.webp" alt="Batman - Arkham City" style="width: 200px;">
+  <img src="/posts-files/alien-shooter-2/poster.webp" alt="Batman - Arkham City" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Action, RPG, Shooter, 3D**
@@ -49,14 +49,19 @@ Companies: **Sigma Team Inc.**
 
 Languages: **ENG**
 
-Size: **564.3 MiB**
+Size: **564 MiB**
 # ⠀
 ## Mirrors
-<a href="magnet:?xt=urn:btih:NQZWZUAZ72PH6CEEEZTJGR2CG7LT6D6U&dn=Alien%20Shooter%202" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/cjm3s8c8wzjl7umvxrvdq/Alien-Shooter-2.torrent?rlkey=ik9jb6dsqjzd1bhwfpa9tbwog&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:BTUGP5FPQ3SOGO5AGF43MP6GEHKD3443&dn=Alien%20Shooter%202%20-%20Reloaded" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/uy3eabqc279m6kbszoyxi/Alien-Shooter-2-Reloaded.torrent?rlkey=j37w2qgo9nvtejek353gspolh&st=f5dar1dv&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
-Based of **GOG release**
+
+Based on <a href="https://1337x.to/torrent/2477571/" style="color: green;">1337x.to</a>
+
+Based of **Gog Version, setup_alien_shooter2_2.1.0.10.exe**
+
+Game version: **v2.1.0.10**
 
 NOTHING ripped, NOTHING re-encoded
 

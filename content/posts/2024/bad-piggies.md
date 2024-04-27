@@ -55,9 +55,26 @@ Size: **179.5 MiB**
 # ⠀
 # ⠀
 
+## Trailer
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YsCpDaSooWA" title="Bad Piggies official gameplay trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Mirrors
 <a href="magnet:?xt=urn:btih:DOOSJL54UNTSRDMRIF56YC7AT5TY6GDS&dn=Bad%20Piggies" style="color: green;">[Magnet]</a>
 <a href="https://www.dropbox.com/scl/fi/wc34gkuvpkpte2jc5lxs2/Bad-Piggies.torrent?rlkey=0e8oabt2602uzevzttq5kqlco&st=k2q6k3ht&dl=1" style="color: green;">[.torrent file only]</a>
+
+## Key
+THET-ALEV-LEFR-USWO
+
+XOXO-OXOX-XXOO-OOXX
+
+ERES-ERES-ERES-ERES 
+
+ABCD-EFGH-IJKL-MNOP
+
+AAAA-AAAA-AAAA-AAAA 
+
+Angry Birds Rio:
+CLST-GORM-SPRG-LACH
 
 ## Torrent Features
 Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>
@@ -84,7 +101,7 @@ NOTHING ripped, NOTHING re-encoded
 
 ## Linux
 
-Tested with Wine-GE 8-25 on Lutris
+Tested with Proton-GE 9-4 on Bottles
 
 Works Prefectly
 

@@ -54,9 +54,27 @@ Size: **180.6 MiB**
 
 # ⠀
 # ⠀
+
+## Trailer
+<iframe width="640" height="360" src="https://www.youtube.com/embed/l_QoDOOw_14" title="Angry Birds Seasons - All Trailers, Announcements and Promos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Mirrors
 <a href="magnet:?xt=urn:btih:VLCEHUK7WFOEJRWOKXUGMNSUBTNHO4SP&dn=Angry%20Birds%20Seasons" style="color: green;">[Magnet]</a>
 <a href="https://www.dropbox.com/scl/fi/wrqij1jcr25616xt9ccz7/Angry-Birds-Seasons.torrent?rlkey=1dtlc9qbhl3a1tyy9pufj5lrh&st=3iodkwwe&dl=1" style="color: green;">[.torrent file only]</a>
+
+## Key
+THET-ALEV-LEFR-USWO
+
+XOXO-OXOX-XXOO-OOXX
+
+ERES-ERES-ERES-ERES 
+
+ABCD-EFGH-IJKL-MNOP
+
+AAAA-AAAA-AAAA-AAAA 
+
+Angry Birds Rio:
+CLST-GORM-SPRG-LACH
 
 ## Torrent Features
 Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>
@@ -83,7 +101,7 @@ NOTHING ripped, NOTHING re-encoded
 
 ## Linux
 
-Tested with Wine-GE 8-25 on Lutris
+Tested with Proton-GE 9-4 on Bottles
 
 Works Prefectly
 

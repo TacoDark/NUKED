@@ -52,9 +52,26 @@ Languages: **ENG**
 
 Size: **111.1 MiB**
 
+## Trailer
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wP_nMhli3CQ" title="Angry Birds Star Wars 2 - out NOW!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Mirrors
 <a href="magnet:?xt=urn:btih:QBPQEBDU65J56HSREYMFYRQYNAHIVRL3&dn=Angry%20Birds%20Star%20Wars%20II" style="color: green;">[Magnet]</a>
 <a href="https://www.dropbox.com/scl/fi/22pkwytpho5vqfl916nz0/Angry-Birds-Star-Wars-II.torrent?rlkey=a4b4jiekovw5n0p9lt5e59268&st=z9parmcw&dl=1" style="color: green;">[.torrent file only]</a>
+
+## Key
+THET-ALEV-LEFR-USWO
+
+XOXO-OXOX-XXOO-OOXX
+
+ERES-ERES-ERES-ERES 
+
+ABCD-EFGH-IJKL-MNOP
+
+AAAA-AAAA-AAAA-AAAA 
+
+Angry Birds Rio:
+CLST-GORM-SPRG-LACH
 
 ## Torrent Features
 Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>
@@ -81,7 +98,7 @@ NOTHING ripped, NOTHING re-encoded
 
 ## Linux
 
-Tested with Wine-GE 8-25 on Lutris
+Tested with Proton-GE 9-4 on Bottles
 
 Works Prefectly
 

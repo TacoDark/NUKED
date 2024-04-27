@@ -1,9 +1,9 @@
 ---
 title: "Overcooked Gourmet Edition"
 
-date: 2024-01-31
+date: 2024-04-26
 url: /overcooked-gourmet-edition
-image: images/2024/overcooked-gourmet-edition.webp
+image: posts-files/overcooked-gourmet-edition/poster.webp
 categories:
   - Games
   - Windows
@@ -18,7 +18,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/images/2024/overcooked-gourmet-edition2.webp') center center fixed no-repeat;
+    background: url('/posts-files/overcooked-gourmet-edition/background.webp') center center fixed no-repeat;
     background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
@@ -36,12 +36,12 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="/audio/overcooked-gourmet-edition.mp3" type="audio/mp3">
+  <source src="//posts-files/overcooked-gourmet-edition/poster.webp/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024/overcooked-gourmet-edition.webp" alt="Overcooked! All You Can Eat" style="width: 200px;">
+  <img src="/posts-files/overcooked-gourmet-edition/poster.webp" alt="Overcooked! All You Can Eat" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Action, Casual, Simulation, 3D**
@@ -50,19 +50,21 @@ Companies: **Ghost Town Games, Team17 Digital**
 
 Language : **ENG**
 
-Size: **761.5 MiB**
+Size: **709.2 MiB**
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4zXCeg3JoJs" title="Overcooked - Gourmet Edition Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:HFVGFEEVPOYZKVX47VMGMBM5CWVOOWT6&dn=Overcooked%20Gourmet%20Edition" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/26rbge9rm7cv0yz7ivtcn/Overcooked-Gourmet-Edition.torrent?rlkey=l13qmu4zyvmk2gapiw5g9u9g7&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:NUY74YRQUUK7KG52FEHOIKFXS2MSO3PG&dn=Overcooked%20Gourmet%20Edition" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/4ef5dgvz9suffq5rhhtem/Overcooked-Gourmet-Edition.torrent?rlkey=l87ncly1wwgxkbweabeaklt7t&st=jogru6bq&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
-Based of **IGG Games Release**
+Based on <a href="https://rutracker.net/forum/viewtopic.php?t=5877345" style="color: green;">Rutracker</a>
 
-Version: **v25.11.2017**
+Based of **GOG Version, setup_overcooked_gourmet_edition_1.1_(28358).exe**
+
+Version: **v1.1**
 
 NOTHING ripped, NOTHING re-encoded
 
@@ -83,6 +85,6 @@ NOTHING ripped, NOTHING re-encoded
 
 ## Linux
 
-Tested with Wine-GE 8-25 on Lutris
+Tested with Proton-GE 9-4 on Bottles
 
 Works Prefectly
