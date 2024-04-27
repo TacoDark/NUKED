@@ -55,8 +55,8 @@ Size: **1.12 GB**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oOL-dsa79Xs" title="Slime Rancher - Official Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:BTUGP5FPQ3SOGO5AGF43MP6GEHKD3443&dn=Alien%20Shooter%202%20-%20Reloaded" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/uy3eabqc279m6kbszoyxi/slime-rancher-Reloaded.torrent?rlkey=j37w2qgo9nvtejek353gspolh&st=f5dar1dv&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="magnet:?xt=urn:btih:44HKZIMANSPET35MBDJHO3RA6IC5LSFU&dn=Slime%20Rancher" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/b20mlkh7344k8qdy0146l/Slime-Rancher.torrent?rlkey=150xg0e8hwj35b9wp0sfczd07&st=9j3oapwi&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based on <a href="https://gog-games.to/game/slime_rancher
