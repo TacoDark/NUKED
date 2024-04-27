@@ -77,8 +77,9 @@ Based of **Gog Version, setup_overcooked_2_6.242_dev_build_(63806).exe + setup_o
 Game version: **v6.242**
 
 Dlcs:
+
 ```
-Campfire Cook off
+Campfire Cook off`
 Carnival of Chaos
 Night of The hangry horde
 Surf n turf
