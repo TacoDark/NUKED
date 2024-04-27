@@ -36,7 +36,7 @@ draft: false
 </script>
 
 <audio controls autoplay>
-  <source src="//posts-files/overcooked-gourmet-edition/poster.webp/music.mp3" type="audio/mp3">
+  <source src="/posts-files/overcooked-gourmet-edition/poster.webp/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 
