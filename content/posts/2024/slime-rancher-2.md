@@ -3,7 +3,7 @@ title: "Slime Rancher 2"
 
 date: 2024-04-26
 url: /slime-rancher-2
-image: posts-files/slime-rancher-2/poster.png 
+image: posts-files/slime-rancher-2/poster.jpg 
 categories:
   - Games
   - Windows
@@ -41,7 +41,7 @@ draft: false
 
 
 <figure style="float: left; margin-right: 20px;">
-  <img src="/posts-files/slime-rancher-2/poster.png" alt="Slime Rancher" style="width: 200px;">
+  <img src="/posts-files/slime-rancher-2/poster.jpg" alt="Slime Rancher" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Action, RPG, Shooter, 3D**
