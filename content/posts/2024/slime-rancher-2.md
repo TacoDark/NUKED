@@ -1,7 +1,7 @@
 ---
 title: "Slime Rancher 2"
 
-date: 2024-04-04
+date: 2024-04-26
 url: /slime-rancher-2
 image: posts-files/slime-rancher-2/poster.png 
 categories:
