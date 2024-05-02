@@ -64,7 +64,9 @@ allowfullscreen></iframe>
 Based of **Igg Games Release**
 
 **ALl files that was in game follder, like exes and dlls and inis was all replaced with clean crack from gamecopyworld**
+
 **Game is fully working**
+
 **Old crack/files is included (not recommended to install, it has tons of issues)**
 
 Game version: **1.0**
