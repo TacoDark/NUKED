@@ -1,6 +1,6 @@
 ---
 title: "Cuphead"
-date: 2024-01-29
+date: 2024-04-26
 url: /cuphead
 image: posts-files/cuphead/poster.png
 categories:
