@@ -64,7 +64,7 @@ Based on <a href="https://rutracker.net/forum/viewtopic.php?t=5877345" style="co
 
 Based of **GOG Version, setup_overcooked_gourmet_edition_1.1_(28358).exe**
 
-Version: **v1.1**
+Game version: **v1.1**
 
 NOTHING ripped, NOTHING re-encoded
 

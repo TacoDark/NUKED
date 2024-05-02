@@ -63,7 +63,7 @@ Based on <a href="https://rutracker.org/forum/viewtopic.php?t=5731313" style="co
 
 Based of **GOG Version, setup_hello_neighbor_1.4_(64bit)_(30828).torrent**
 
-Version: **v1.4**
+Game version: **v1.4**
 
 NOTHING ripped, NOTHING re-encoded
 

@@ -65,7 +65,7 @@ Based on <a href="https://dodi-repacks.site/1001-grand-theft-auto-san-andreas-v1
 
 Based of **Grand Theft Auto San Andreas - [DODI Repack] v1.0.0.22.torrent**
 
-Version: **v1.0.0.22**
+Game version: **v1.0.0.22**
 
 NOTHING ripped, NOTHING re-encoded
 
