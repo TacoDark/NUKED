@@ -47,8 +47,8 @@ draft: false
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-7gIpfrQdAI" title="Angry Birds Rio Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Mirrors
-[Magnet](magnet:?xt=urn:btih:EVNLB5L274NFG7JEXA6CZ2RJ7XWVUZNM&dn=Angry%20Birds%20Rio){.green}  
-[.torrent file only](https://www.dropbox.com/scl/fi/tsulzs1pdeuo19stwu11x/Angry-Birds-Rio.torrent?rlkey=lma8ksokeolb904p92nlxtlkz&st=0rwa01iu&dl=1){.green}
+<a href="magnet:?xt=urn:btih:EVNLB5L274NFG7JEXA6CZ2RJ7XWVUZNM&dn=Angry%20Birds%20Rio" style="color: green;">[Magnet]</a>
+<a href="https://www.dropbox.com/scl/fi/tsulzs1pdeuo19stwu11x/Angry-Birds-Rio.torrent?rlkey=lma8ksokeolb904p92nlxtlkz&st=0rwa01iu&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Key
 - THET-ALEV-LEFR-USWO
@@ -59,7 +59,7 @@ draft: false
 - Angry Birds Rio: CLST-GORM-SPRG-LACH
 
 ## Torrent Features
-Based on [archive.org](https://archive.org/details/angry-birds-pc){.green}  
+Based on <a href="https://archive.org/details/angry-birds-pc" style="color: green;">archive.org</a>   
 Based of **AngryBirdsRioInstaller_2.2.0.exe, Rovio release**  
 **Game version:** v2.2.0  
 **Note:** NOTHING ripped, NOTHING re-encoded

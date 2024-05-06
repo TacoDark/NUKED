@@ -57,7 +57,7 @@ Size: **209.2 MiB**
 
 ## Mirrors
 <a href="magnet:?xt=urn:btih:5YL6WFE62OV6KEFMDUTKRIXIHN5CHRSS&dn=Angry%20Birds" style="color: green;">[Magnet]</a>
-<a href="httpshttps://www.dropbox.com/scl/fi/b5usakk34kvfs790kpzjw/Angry-Birds.torrent?rlkey=7cgbu512u8fm9umjl8rwpzcu9&st=9isaau2x&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="https://www.dropbox.com/scl/fi/b5usakk34kvfs790kpzjw/Angry-Birds.torrent?rlkey=7cgbu512u8fm9umjl8rwpzcu9&st=9isaau2x&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Key
 THET-ALEV-LEFR-USWO
