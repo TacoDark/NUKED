@@ -2,7 +2,7 @@
 title: "Shadow of the Tomb Raider"
 date: 2024-05-08
 url: /shadow-of-the-tomb-raider
-image: posts-files/shadow-of-the-tomb-raider/poster.jpg
+image: posts-files/shadow-of-the-tomb-raider/poster.png
 categories:
   - Games
   - Windows
@@ -15,7 +15,7 @@ draft: false
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/posts-files/shadow-of-the-tomb-raider/background.jpg') center center fixed no-repeat;
+    background: url('/posts-files/shadow-of-the-tomb-raider/background.png') center center fixed no-repeat;
     background-size: cover;
     color: #f5f5f5;
   }
