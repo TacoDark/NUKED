@@ -1,6 +1,6 @@
 ---
 title: "Shadow of the Tomb Raider"
-date: 2024-06-05
+date: 2024-05-08
 url: /shadow-of-the-tomb-raider
 image: posts-files/shadow-of-the-tomb-raider/poster.jpg
 categories:
