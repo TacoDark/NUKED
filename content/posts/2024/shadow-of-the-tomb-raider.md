@@ -58,8 +58,8 @@ Based of **Shadow of the Tomb Raider - Definitive Edition v.1.0.492.0 (2018).tor
 **Note:** NOTHING ripped, NOTHING re-encoded  
 
 ## System Requirements
-- **OS:** Windows 10 65-bit
-- **Processor:** Intel Core i7 4770K, 3.40 Ghz or AMD Ryzen 5 1600, 3.20 Ghz
+- **OS:** Windows 10 64-bit
+- **Processor:** Intel Core i7 4770K, 3.40 GHz or AMD Ryzen 5 1600, 3.20 GHz
 - **Memory:** 16 GB RAM
 - **Graphics:** Nvidia GTX 1060 6GB or AMD Radeon RX 480, 8GB
 - **DirectX:** Version 11 or 12 
