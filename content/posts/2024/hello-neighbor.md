@@ -1,9 +1,8 @@
 ---
 title: "Hello Neighbor"
-
 date: 2024-03-30
 url: /hello-neighbor
-image: posts-files/hello-neighbor/poster.jpg
+image: posts-files/hello-neighbor/poster.png
 categories:
   - Games
   - Windows
@@ -12,25 +11,21 @@ tags:
   - Gaming
 draft: false
 ---
-##
+
 <style>
   body.dark-mode,
   body.dark-mode main * {
-    background: url('/posts-files/hello-neighbor/background.webp') center center fixed no-repeat;
-    background-size: 100% 100%;
+    background: url('/posts-files/hello-neighbor/background.png') center center fixed no-repeat;
     background-size: cover;
     color: #f5f5f5;
   }
 </style>
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
-        var body = document.body;
-        var switcher = document.querySelector('.js-toggle');
-                body.classList.add('dark-mode');
-                // Save user preference in storage
-                localStorage.setItem('darkMode', 'true');
-            
-        });
+        document.body.classList.add('dark-mode');
+        localStorage.setItem('darkMode', 'true');
+    });
 </script>
 
 <audio controls autoplay>
@@ -38,18 +33,15 @@ draft: false
   Your browser does not support the audio tag.
 </audio>
 
-
 <figure style="float: left; margin-right: 20px;">
-  <img src="/posts-files/hello-neighbor/poster.jpg" alt="Hello Neighbor" style="width: 200px;">
+  <img src="/posts-files/hello-neighbor/poster.png" alt="Hello Neighbor" style="width: 200px;">
 </figure>
 
-Genres/Tags: **Adventure, Stealth, First-person, 3D, Horror**
-
-Companies: **Dynamic Pixels / tinyBuild**
-
-Language : **RUS/ENG/MULTI23**
-
-Size: **4.78 GiB**
+**Genres/Tags:** Adventure, Stealth, First-person, 3D, Horror  
+**Companies:** Dynamic Pixels / tinyBuild  
+**Languages:** RUS/ENG/MULTI23  
+**Size:** 4.78 GiB  
+# ⠀
 # ⠀
 
 ## Trailer
@@ -58,26 +50,18 @@ Size: **4.78 GiB**
 ## Mirrors
 <a href="magnet:?xt=urn:btih:FQ6BZ327D2ASRGMH4WRSFLMWONK7MYAW&dn=Hello%20Neighbor" style="color: green;">[Magnet]</a>
 <a href="https://www.dropbox.com/scl/fi/yg678lve8cca0xb63ghzn/Hello-Neighbor.torrent?rlkey=pkl8nopjeul5l06x7eljsiwyz&st=fjt2gl05&dl=1" style="color: green;">[.torrent file only]</a>
+
 ## Torrent Features
-Based on <a href="https://rutracker.org/forum/viewtopic.php?t=5731313" style="color: green;">Rutracker</a>
+Based on <a href="https://rutracker.org/forum/viewtopic.php?t=5731313" style="color: green;">Rutracker</a>  
+Based of **setup_hello_neighbor_1.4_(64bit)_(30828).torrent, GOG release**  
+**Note:** NOTHING ripped, NOTHING re-encoded  
 
-Based of **GOG Version, setup_hello_neighbor_1.4_(64bit)_(30828).torrent**
+## System Requirements
+- **OS:** Windows 7
+- **Processor:** i5 and up
+- **Memory:** 6 GB RAM
+- **Graphics:** GTX 770 and up
+- **Storage:** 5 GB available space
 
-Game version: **v1.4**
-
-NOTHING ripped, NOTHING re-encoded
-
-## System Requrements
-**OS:** Windows 7
-
-**Processor:** i5 and up
-
-**Memory:** 6 GB Ram
-
-**Graphics:** GTX 770 and up
-
-**Storage:** 5 GB available space
-
-## Linux
-
-not tested
+## Compatibility
+not tested 

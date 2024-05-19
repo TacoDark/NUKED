@@ -11,44 +11,37 @@ tags:
   - Gaming
 draft: false
 ---
-##
+
 <style>
   body.dark-mode,
   body.dark-mode main * {
     background: url('/posts-files/crash-bandicoot-n-sane-trilogy/background.png') center center fixed no-repeat;
-    background-size: 100% 100%;
     background-size: cover;
     color: #f5f5f5;
   }
 </style>
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
-        var body = document.body;
-        var switcher = document.querySelector('.js-toggle');
-                body.classList.add('dark-mode');
-                // Save user preference in storage
-                localStorage.setItem('darkMode', 'true');
-            
-        });
+        document.body.classList.add('dark-mode');
+        localStorage.setItem('darkMode', 'true');
+    });
 </script>
 
 <audio controls autoplay>
   <source src="/posts-files/crash-bandicoot-n-sane-trilogy/music.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
-</audio>⠀⠀⠀
-⠀
+</audio>
+
 <figure style="float: left; margin-right: 20px;">
-  <img src="/posts-files/crash-bandicoot-n-sane-trilogy/poster.png" alt="title: "Crash Bandicoot N. Sane Trilogy"" style="width: 200px;">
+  <img src="/posts-files/crash-bandicoot-n-sane-trilogy/poster.png" alt="Crash Bandicoot N. Sane Trilogy" style="width: 200px;">
 </figure>
 
-Genres/Tags: **Arcade, Jump and run, Side, Third-person, 3D**
-
-Companies: **Vicarious Visions, Activision**
-
-Languages: **ENG/MULTi12**
-
-Size: **29.08 GB**
-
+**Genres/Tags:** Arcade, Jump and run, Side, Third-person, 3D  
+**Companies:** Vicarious Visions, Activision  
+**Languages:** ENG/MULTi12  
+**Size:** 29.08 GiB  
+# ⠀
 # ⠀
 
 ## Trailer
@@ -59,32 +52,24 @@ Size: **29.08 GB**
 <a href="https://www.dropbox.com/scl/fi/h61hcbtsw2d5hvoffzmqp/Crash-Bandicoot-N.-Sane-Trilogy.torrent?rlkey=4jh20je1fchsd6s69om97wcxl&st=mf13cjpb&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
-Based of **CRASH BANDICOOT N. SANE TRILOGY, Fitgirl release**
+Based on <a href="https://fitgirl-repacks.site/crash-bandicoot-n-sane-trilogy/" style="color: green;">fitgirl-repacks.site</a>  
+Based of **CRASH BANDICOOT N. SANE TRILOGY, Fitgirl release**  
+**Game version:** v1.0
+**Crack:** CODEX emu  
+**Note:** NOTHING ripped, NOTHING re-encoded  
 
-Game version: **1.0**
+## System Requirements
+- **OS:** Windows 7 64-bit
+- **Processor:** Intel Core i5-750 @ 2.67GHz or AMD Phenom II X4 965 @ 3.4GHz
+- **Memory:** 8 GB RAM
+- **Graphics:** NVIDIA GeForce GTX 660 2GB or AMD Radeon HD 7850 2GB
+- **DirectX:** Version 9.0c 
+- **Storage:** 30 GB available space
 
-Crack: **CODEX emu**
+## Compatibility
+### Linux
+Tested with Proton-GE 9-4 on Bottles. Works perfectly.  
+Tested with Wine-GE 8-25 on Lutris. Works prefectly.  
 
-NOTHING ripped, NOTHING re-encoded
-
-## System Requrements
-**OS:** Windows 7 64-bit
-
-**Processor:** Intel Core i5-750 @ 2.67GHz | AMD Phenom II X4 965 @ 3.4GHz
-
-**Memory:** 8 GB RAM
-
-**Graphics:** NVIDIA GeForce GTX 660 2GB | AMD Radeon HD 7850 2GB
-
-**DirectX:** Version 9.0c
-
-**Storage:** 30 GB available space
-
-**Sound Card:** DirectX 9.0c Compatible.
-
-
-## Linux
-
-Tested with Wine-GE 8-25 on Lutris
-
-Works Prefectly
+### Windows
+Tested on Windows 11 23h2. Works perfectly.
