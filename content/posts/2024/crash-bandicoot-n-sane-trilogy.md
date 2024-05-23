@@ -68,8 +68,7 @@ Based of **CRASH BANDICOOT N. SANE TRILOGY, Fitgirl release**
 
 ## Compatibility
 ### Linux
-Tested with Proton-GE 9-4 on Bottles. Works perfectly.  
-Tested with Wine-GE 8-25 on Lutris. Works prefectly.  
+Tested with Proton-GE 9-5 on Lutris. Works perfectly.  
 
 ### Windows
 Tested on Windows 11 23h2. Works perfectly.

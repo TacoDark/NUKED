@@ -67,5 +67,4 @@ Based of **setup_alien_shooter2_2.1.0.10.exe, Gog release**
 
 ## Compatibility
 ### Linux
-Tested with Wine-GE 8-25 on Lutris. Works Prefectly.  
-Tested with Proton-GE 9-4 on Bottles. Works perfectly.  
+Tested with Proton-GE 9-5 on Lutris. Works perfectly.  

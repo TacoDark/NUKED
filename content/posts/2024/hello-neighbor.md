@@ -64,4 +64,5 @@ Based of **setup_hello_neighbor_1.4_(64bit)_(30828).torrent, GOG release**
 - **Storage:** 5 GB available space
 
 ## Compatibility
-not tested 
+### Linux
+Tested with Proton-GE 9-5 on Lutris. Works perfectly.  

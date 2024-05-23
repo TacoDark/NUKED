@@ -67,7 +67,7 @@ Based of **Rise of the Tomb Raider (v1.0.1027.0).torrent**
 
 ## Compatibility
 ### Linux
-Tested with Proton-GE 9-4 on Bottles. Works perfectly.
+Tested with Proton-GE 9-5 on Lutris. Works perfectly.  
 
 ### Windows
 Tested on Windows 11 23h2. Works perfectly.

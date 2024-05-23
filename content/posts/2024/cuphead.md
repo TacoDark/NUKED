@@ -67,7 +67,7 @@ Based of **game-cuphead-(58147).rar, Gog release**
 
 ## Compatibility
 ### Linux
-Tested with Proton-GE 9-4 on Bottles. Works perfectly.
+Tested with Proton-GE 9-5 on Lutris. Works perfectly.  
 
 ### Windows
 Tested on Windows 11 23h2. Works perfectly.

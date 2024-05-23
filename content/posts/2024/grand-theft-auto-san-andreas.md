@@ -66,8 +66,7 @@ Based of **Grand Theft Auto San Andreas - [DODI Repack] v1.0.0.22.torrent, Dodi 
 
 ## Compatibility
 ### Linux
-Tested with Proton-GE 9-4 on Bottles. Works perfectly.  
-Tested with Wine-GE 8-25 on Lutris. Works prefectly.  
+Tested with Proton-GE 9-5 on Lutris. Works perfectly.  
 
 ### Windows
 Tested on Windows 11 23h2. Works perfectly.
