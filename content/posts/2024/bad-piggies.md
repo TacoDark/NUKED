@@ -76,7 +76,7 @@ Based of **BadPiggiesInstaller_1.5.1.exe, Rovio release**
 
 ## Compatibility
 ### Linux
-Tested with Proton-GE 9-5 on Lutris. Works perfectly.  
+Tested with Proton-GE 9-5 on Lutris. CANT ENTER KEY.  
 
 ### Windows
-Tested on Windows 11 23h2. Works perfectly.
+Tested on Windows 10 21h2 64-bit IoT Enterprise LTSC 2021. Can enter key but cant , servers is dead error.

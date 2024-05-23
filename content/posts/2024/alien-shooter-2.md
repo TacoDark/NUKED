@@ -68,3 +68,6 @@ Based of **setup_alien_shooter2_2.1.0.10.exe, Gog release**
 ## Compatibility
 ### Linux
 Tested with Proton-GE 9-5 on Lutris. Works perfectly.  
+
+### Windows
+Tested on Windows 10 21h2 64-bit IoT Enterprise LTSC 2021. Works perfectly.

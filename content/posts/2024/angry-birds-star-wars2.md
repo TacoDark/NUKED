@@ -79,4 +79,4 @@ Based of **AngryBirdsStarWarsIIInstaller_1.5.1.exe, Rovio release**
 Tested with Proton-GE 9-5 on Lutris. Works perfectly.  
 
 ### Windows
-Tested on Windows 11 23h2. Works perfectly.
+Tested on Windows 10 21h2 64-bit IoT Enterprise LTSC 2021. Works perfectly.
