@@ -72,6 +72,6 @@ Tested with Proton-GE 9-5 on Lutris. Works perfectly.
 ### Windows
 Tested on Windows 10 21h2 64-bit IoT Enterprise LTSC 2021. Works perfectly.
 
-Doesnt work from samba for some reson?, Weried most games does work
+Doesn't work from Samba for some reason? Weird, most games do work.
 
 ![Samba Error](/posts-files/cuphead/samba-error.png)
