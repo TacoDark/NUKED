@@ -71,31 +71,15 @@
 
 // article-overlapped-list
 .article-overlapped-list {
-  img {
-    @include media(mobile, tablet) {
-      margin-left: auto;
-      margin-right: auto;
-      display: block;
-    }
-  }
-
   .card-block {
     padding: 30px;
     margin-left: -60px;
     background: $white;
-    border-radius: 4px;
     @include desktop {
       margin-left: 0;
-      padding: 15px;
-    }
-
-    @include media(mobile, tablet) {
-      padding: 15px;
-      margin-top: 15px;
-      text-align: center;
+      padding: 0;
     }
   }
-
   @include tablet {
     img.w-100 {
       margin-bottom: 20px;
@@ -217,7 +201,6 @@
 /* blog */
 .block {
   padding: 40px;
-  border-radius: 4px;
 }
 
 .author-thumb {
@@ -245,7 +228,7 @@
       font-weight: bold;
 
       &:hover {
-        background: $text-color;
+        background: $primary-color;
         color: $white;
       }
     }
@@ -261,18 +244,8 @@
 
 .post-title {
   color: $black;
-  font-weight: bold;
-
   &:hover {
     text-decoration: underline;
-  }
-}
-
-.post-category {
-  font-style: italic;
-
-  &:not(:last-of-type)::after {
-    content: ", ";
   }
 }
 

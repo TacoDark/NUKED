@@ -24,12 +24,9 @@
         <div class="block shadow mb-4">
           <h2>{{ .Title | markdownify }}</h2>
           <div class="mb-4 mt-3 post-meta">
-            {{ .PublishDate.Format "Jan 2, 2006" }}
-            {{ if .Params.Categories }}
-              <span class="mx-1">|</span>
-              {{ range .Params.Categories }}
-              <span class="post-category"><a href="{{ `categories/` | absLangURL }}{{ . | urlize | lower }}">{{ . | title }}</a></span>
-              {{ end }}
+            <a href="{{ `author/` | absLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title }}</a> <span class="mx-2">|</span>
+            {{ .PublishDate.Format "Jan 2, 2006" }}<span class="mx-2">|</span> {{ range .Params.Categories }}
+            <a href="{{ `categories/` | absLangURL }}{{ . | urlize | lower }}">{{ . | title }}</a>
             {{ end }}
           </div>
           {{ if .Params.Image }}
@@ -45,9 +42,8 @@
           </div>
         </div>
 
-        {{ $related := site.RegularPages.Related . | first 5 }}
-        {{ if $related }}
         <div class="block shadow">
+          {{ $related := site.RegularPages.Related . | first 5 }}
           {{ with $related }}
           <h3 class="mb-3">See Also</h3>
           <ul class="list-unstyled related-post-list">
@@ -57,18 +53,23 @@
           </ul>
           {{ end }}
         </div>
-        {{ end }}
         <!-- Github Comments addition -->
         <script src="https://utteranc.es/client.js"
-          repo="ChrisTitusTech/website"
+          repo="SteavenGamerYT/website"
           issue-term="pathname"
           theme="preferred-color-scheme"
           crossorigin="anonymous"
           async>
         </script>
         <!--Back to Top addition-->
-        {{ partial "backtotop.html" . }}
-        
+        <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+        <script>addBackToTop({
+          diameter: 56,
+          backgroundColor: 'rgb(154, 196, 248)',
+          textColor: '#fff'
+        })</script>
+        <!-- Google Ad Bottom -->
+        {{ partial "anchor.html" . }}
       </div>
       <!-- right sidebar -->
       {{ if eq $sidebar "right" }}

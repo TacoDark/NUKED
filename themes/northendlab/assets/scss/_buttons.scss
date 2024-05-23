@@ -1,7 +1,9 @@
 /* Button style */
-@mixin button-base {
+.btn {
+  font-size: 16px;
   font-family: $primary-font;
   text-transform: capitalize;
+  padding: 12px 20px;
   border-radius: 5px;
   border: 1px solid;
   position: relative;
@@ -16,53 +18,53 @@
   }
 }
 
-@mixin button-size($font-size, $padding) {
-  font-size: $font-size;
-  padding: $padding;
-}
-
-@mixin button-variant($background, $color, $border-color: $background) {
-  background: $background;
-  color: $color;
-  border-color: $border-color;
-
-  &:active,
-  &:hover,
-  &:focus,
-  &.active {
-    background: $background !important;
-    border-color: $border-color !important;
-    color: $color;
-  }
-}
-
-.btn {
-  @include button-base;
-  @include button-size(16px, 12px 20px);
-}
-
 .btn-sm{
-  @include button-size(15px, 6px 10px);
+  font-size: 15px;
+  padding: 6px 10px;
 }
 
 .btn-primary {
-  @include button-variant($primary-color, $white);
+  background: $primary-color;
+  color: $white;
+  border-color: $primary-color;
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    background: $primary-color !important;
+    border-color: $primary-color !important;
+  }
 }
 
 .btn-outline-primary {
-  @include button-variant(transparent, $primary-color);
+  background: transparent;
+  color: $primary-color;
+  border-color: $primary-color;
+
   &:active,
   &:hover,
-  &:focus,
+  &.focus,
   &.active {
+    background: $primary-color !important;
+    border-color: $primary-color !important;
     color: $white;
   }
 }
 
 
 .btn-transparent {
-  @include button-variant(transparent, $primary-color, 0);
+  background: transparent;
+  color: $primary-color;
+  border: 0;
   border-bottom: 1px solid $primary-color;
   border-radius: 0;
   padding: 2px;
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    background: transparent;
+  }
 }

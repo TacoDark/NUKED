@@ -11,13 +11,12 @@
   {{- partial "header.html" . -}}
   {{- block "main" . }}
   {{- end }}
-  <!-- Ad Stuff 
-  {{ partial "gtm-noscript.html" . }}-->
+  <!-- Ad Stuff -->
+  {{ partial "gtm-noscript.html" . }}
   <!-- Copy Code Titus -->
   {{ if (findRE "pre.*?" .Content 1) }}
   <script src="/js/code-copy.js"></script>
   {{ end  }}
-  <!-- {{ partial "3cx-chat.html" . }} -->
   <!-- END Titus Mod-->
   {{ partialCached "footer.html" . }}
   {{ partialCached "script.html" . }}
