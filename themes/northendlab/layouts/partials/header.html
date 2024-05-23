@@ -70,9 +70,6 @@
           {{ end }}
         </ul>
 
-        <!-- Dark Mode Addition-->
-        {{- partial "toggle" -}}
-
         {{ if site.Params.search }}
         {{ $search_layout := site.Params.header_search_layout }}
         {{ "<!-- search -->" | safeHTML }}

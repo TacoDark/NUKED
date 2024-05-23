@@ -1,6 +1,12 @@
 {{ define "main" }}
 {{ partial "banner.html" . }}
 
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+      document.body.classList.add('dark-mode');
+      localStorage.setItem('darkMode', 'true');
+  });
+</script>
 <!-- featured-post-slider 
 <div class="featured-post-slider">
   <div class="container">
