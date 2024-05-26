@@ -49,7 +49,7 @@ draft: false
 
 ## Mirrors
 <a href="magnet:?xt=urn:btih:JXUPB2TXP5Y5T73IV44QSOLBHQBJ2OAN&dn=Rise%20of%20the%20Tomb%20Raider" style="color: green;">[Magnet]</a>
-<a href="https://www.dropbox.com/scl/fi/1chjrm50l2kj0add1nrml/Shadow-of-the-Tomb-Raider.torrent?rlkey=2c5zi1hdemgplg5tk88jciixc&dl=1" style="color: green;">[.torrent file only]</a>
+<a href="https://www.dropbox.com/scl/fi/0b9xna0nrbvfzri6lvc6i/Rise-of-the-Tomb-Raider.torrent?rlkey=rga1xlqi5n6vgo2cufeddxfel&dl=1" style="color: green;">[.torrent file only]</a>
 
 ## Torrent Features
 Based on <a href="https://www.dropbox.com/scl/fi/mbwx7wy40r0ye79ejs4n3/Rise-of-the-Tomb-Raider-v1.0.1027.0.torrent?rlkey=8eicbktn6qlfwmaq1mx01f1jo&dl=1" style="color: green;">i dont remember whare i got that torrent from</a>  
