@@ -41,7 +41,7 @@ draft: false
 **Genres/Tags:** Action, Open world, Beat ’em up (Brawler), Third-person, 3D  
 **Companies:** Insomniac Games, Nixxes Software, PlayStation PC LLC  
 **Languages:** RUS/ENG/MULTI22  
-**Size:** 60 GB  
+**Size:** 56.88 GB  
 # ⠀
 # ⠀
 
