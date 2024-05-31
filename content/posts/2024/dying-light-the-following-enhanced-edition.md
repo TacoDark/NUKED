@@ -1,6 +1,6 @@
 ---
 title: "Dying Light: The Following Enhanced Edition"
-date: 2024-04-31
+date: 2024-05-31
 url: /dying-light-the-following-enhanced-edition
 image: posts-files/dying-light-the-following-enhanced-edition/poster.png
 categories:
