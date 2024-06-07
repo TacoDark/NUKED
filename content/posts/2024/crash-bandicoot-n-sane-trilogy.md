@@ -42,7 +42,6 @@ draft: false
 **Languages:** ENG/MULTi12  
 **Size:** 29.08 GiB  
 # ⠀
-# ⠀
 
 ## Trailer
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4fbO2-egZ3U" title="The Comeback Trailer | Crash Bandicoot® N. Sane Trilogy | Crash Bandicoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -68,7 +67,7 @@ Based of **CRASH BANDICOOT N. SANE TRILOGY, Fitgirl release**
 
 ## Compatibility
 ### Linux
-Tested with Proton-GE 9-5 on Lutris. Works perfectly.  
+Tested with Proton-GE 9-7 on Lutris. Works perfectly.  
 
 ### Windows
-Tested on Windows 11 23h2. Works perfectly.
+Not tested yet
