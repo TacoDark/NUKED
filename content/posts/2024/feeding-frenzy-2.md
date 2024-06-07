@@ -2,7 +2,7 @@
 title: "Feeding Frenzy 2"
 date: 2024-06-07
 url: /feeding-frenzy-2
-image: posts-files/feeding-frenzy-2/poster.jpg
+image: posts-files/feeding-frenzy-2/poster.png
 categories:
   - Games
   - Windows
